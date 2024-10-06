@@ -1,3 +1,5 @@
+// Problem Link: https://leetcode.com/problems/sentence-similarity-iii/description/
+
 class Solution {
 public:
     bool areSentencesSimilar(string s, string t) {
