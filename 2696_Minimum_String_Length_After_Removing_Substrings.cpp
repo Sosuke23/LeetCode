@@ -1,3 +1,5 @@
+// Problem Link: https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/
+
 class Solution {
 public:
     int minLength(string s) {
