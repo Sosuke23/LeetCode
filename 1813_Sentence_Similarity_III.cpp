@@ -1,5 +1,8 @@
 // Problem Link: https://leetcode.com/problems/sentence-similarity-iii/description/
 
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     bool areSentencesSimilar(string s, string t) {
