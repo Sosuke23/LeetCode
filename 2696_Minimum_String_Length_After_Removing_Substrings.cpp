@@ -1,5 +1,8 @@
 // Problem Link: https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/
 
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int minLength(string s) {
