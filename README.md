@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [2048-build-array-from-permutation](https://github.com/freakin23/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Stack
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/freakin23/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/freakin23/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
