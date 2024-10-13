@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/freakin23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/freakin23/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/freakin23/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/freakin23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/freakin23/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/freakin23/LeetCode/tree/master/0009-palindrome-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/freakin23/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/freakin23/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Number Theory
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/freakin23/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/freakin23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/freakin23/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Heap (Priority Queue)
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/freakin23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
