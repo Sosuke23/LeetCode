@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/freakin23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/freakin23/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/freakin23/LeetCode/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/freakin23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/freakin23/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/freakin23/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/freakin23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/freakin23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/freakin23/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
