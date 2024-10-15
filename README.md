@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/freakin23/LeetCode/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/freakin23/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/freakin23/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/freakin23/LeetCode/tree/master/3379-score-of-a-string) |
 ## Linked List
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/freakin23/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/freakin23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/freakin23/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
