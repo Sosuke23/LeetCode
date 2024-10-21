@@ -1,27 +1,27 @@
 class Solution {
 public:
-    unordered_set<string> st;
-    int res = 0;
-    void dfs(string& s, int idx) {
-        if (st.size() > res) {
-            res = st.size();
-        }
-        if (idx >= s.length()) {
-            return;
-        }
-        string str = "";
-        for (int i = idx; i < s.length(); i++) {
-            str += s[i];
-            if (st.find(str) == st.end()) {
-                st.insert(str);
-                dfs(s, i + 1);
-                st.erase(str);
-            }
-        }
-    }
-
     int maxUniqueSplit(string s) {
-        dfs(s, 0);
+        int n = (int)s.size();
+        int res = 0;
+        for (int i = 0; i < (1 << n); i++) {
+            set<string> se;
+            string p = "";
+            for (int j = 0; j < n; j++) {
+                if (i & (1 << j)) {
+                    p += s[j];
+                } else {
+                    if ((int)p.size() == 0) {
+                        continue;
+                    }
+                    se.insert(p);
+                    p = s[j];
+                }
+            }
+            if ((int)p.size() > 0) {
+                se.insert(p);
+            }
+            res = max(res, (int)se.size());
+        }
         return res;
     }
 };
