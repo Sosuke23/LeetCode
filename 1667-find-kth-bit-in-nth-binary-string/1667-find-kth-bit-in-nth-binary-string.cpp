@@ -1,18 +1,24 @@
 class Solution {
-    string s[21], t[21];
-
 public:
     char findKthBit(int n, int k) {
-        s[1] = "0";
-        t[1] = "1";
-        for (int i = 2; i <= n; i++) {
-            s[i] = s[i - 1];
-            s[i] += '1';
-            s[i] += t[i - 1];
-            t[i] = s[i - 1];
-            t[i] += '0';
-            t[i] += t[i - 1];
+        // Find the position of the rightmost set bit in k
+        // This helps determine which "section" of the string we're in
+        int positionInSection = k & -k;
+
+        // Determine if k is in the inverted part of the string
+        // This checks if the bit to the left of the rightmost set bit is 1
+        bool isInInvertedPart = ((k / positionInSection) >> 1 & 1) == 1;
+
+        // Determine if the original bit (before any inversion) would be 1
+        // This is true if k is even (i.e., its least significant bit is 0)
+        bool originalBitIsOne = (k & 1) == 0;
+
+        if (isInInvertedPart) {
+            // If we're in the inverted part, we need to flip the bit
+            return originalBitIsOne ? '0' : '1';
+        } else {
+            // If we're not in the inverted part, return the original bit
+            return originalBitIsOne ? '1' : '0';
         }
-        return s[n][k - 1];
     }
 };
