@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/freakin23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/freakin23/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/freakin23/LeetCode/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/freakin23/LeetCode/tree/master/0260-single-number-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/freakin23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/freakin23/LeetCode/tree/master/0260-single-number-iii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/freakin23/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/freakin23/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2621-find-xor-beauty-of-array](https://github.com/freakin23/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
