@@ -1,24 +1,25 @@
 class Solution {
 public:
     char findKthBit(int n, int k) {
-        // Find the position of the rightmost set bit in k
-        // This helps determine which "section" of the string we're in
-        int positionInSection = k & -k;
+        // Base case: for S1, return '0'
+        if (n == 1) return '0';
 
-        // Determine if k is in the inverted part of the string
-        // This checks if the bit to the left of the rightmost set bit is 1
-        bool isInInvertedPart = ((k / positionInSection) >> 1 & 1) == 1;
+        // Calculate the length of Sn
+        int len = 1 << n;  // Equivalent to 2^n
 
-        // Determine if the original bit (before any inversion) would be 1
-        // This is true if k is even (i.e., its least significant bit is 0)
-        bool originalBitIsOne = (k & 1) == 0;
-
-        if (isInInvertedPart) {
-            // If we're in the inverted part, we need to flip the bit
-            return originalBitIsOne ? '0' : '1';
-        } else {
-            // If we're not in the inverted part, return the original bit
-            return originalBitIsOne ? '1' : '0';
+        // If k is in the first half of the string, recurse with n-1
+        if (k < len / 2) {
+            return findKthBit(n - 1, k);
+        }
+        // If k is exactly in the middle, return '1'
+        else if (k == len / 2) {
+            return '1';
+        }
+        // If k is in the second half of the string
+        else {
+            // Find the corresponding bit in the first half and invert it
+            char correspondingBit = findKthBit(n - 1, len - k);
+            return (correspondingBit == '0') ? '1' : '0';
         }
     }
 };
