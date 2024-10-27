@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/freakin23/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/freakin23/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/freakin23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1675-magnetic-force-between-two-balls](https://github.com/freakin23/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/freakin23/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/freakin23/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Depth-First Search
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/freakin23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/freakin23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/freakin23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/freakin23/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/freakin23/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/freakin23/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
