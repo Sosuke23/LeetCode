@@ -17,8 +17,8 @@ public:
 
                 umap[slope]++;
             }
-            for (auto &[_, slope] : umap) {
-                res = max(res, slope);
+            for (auto &[_, pt_num] : umap) {
+                res = max(res, pt_num);
             }
         }
         return res + 1;
