@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/freakin23/LeetCode/tree/master/0260-single-number-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/freakin23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/freakin23/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/freakin23/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1983-maximum-population-year](https://github.com/freakin23/LeetCode/tree/master/1983-maximum-population-year) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/freakin23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1675-magnetic-force-between-two-balls](https://github.com/freakin23/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Backtracking
 |  |
@@ -351,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/freakin23/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1733-maximum-number-of-visible-points](https://github.com/freakin23/LeetCode/tree/master/1733-maximum-number-of-visible-points) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
