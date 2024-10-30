@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1675-magnetic-force-between-two-balls](https://github.com/freakin23/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1733-maximum-number-of-visible-points](https://github.com/freakin23/LeetCode/tree/master/1733-maximum-number-of-visible-points) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/freakin23/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/freakin23/LeetCode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/freakin23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1304-longest-happy-string](https://github.com/freakin23/LeetCode/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/freakin23/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/freakin23/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/freakin23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1675-magnetic-force-between-two-balls](https://github.com/freakin23/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/freakin23/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/freakin23/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/freakin23/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/freakin23/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Indexed Tree
