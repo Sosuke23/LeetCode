@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1983-maximum-population-year](https://github.com/freakin23/LeetCode/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/freakin23/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/freakin23/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/freakin23/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/freakin23/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/freakin23/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/freakin23/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/freakin23/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/freakin23/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/freakin23/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/freakin23/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1983-maximum-population-year](https://github.com/freakin23/LeetCode/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/freakin23/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/freakin23/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
