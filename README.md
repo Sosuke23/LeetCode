@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/freakin23/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/freakin23/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/freakin23/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/freakin23/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/freakin23/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/freakin23/LeetCode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/freakin23/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/freakin23/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/freakin23/LeetCode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/freakin23/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1733-maximum-number-of-visible-points](https://github.com/freakin23/LeetCode/tree/master/1733-maximum-number-of-visible-points) |
 | [2379-maximum-total-importance-of-roads](https://github.com/freakin23/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/freakin23/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1983-maximum-population-year](https://github.com/freakin23/LeetCode/tree/master/1983-maximum-population-year) |
