@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3151-minimum-processing-time](https://github.com/freakin23/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/freakin23/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/freakin23/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/freakin23/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/freakin23/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-minimum-processing-time](https://github.com/freakin23/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3264-maximum-points-after-enemy-battles](https://github.com/freakin23/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
 ## Sorting
 |  |
 | ------- |
