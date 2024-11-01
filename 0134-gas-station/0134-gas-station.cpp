@@ -4,14 +4,13 @@ public:
         int n = (int)gas.size();
         int res = 0, tot = 0, now = 0;
         for (int i = 0; i < n; i++) {
-            tot += gas[i] - cost[i];
             now += gas[i] - cost[i];
-
             if (now < 0) {
+                tot += now; 
                 now = 0;
                 res = i + 1;
             }
         }
-        return (tot < 0 ? -1 : res);
+        return (tot + now < 0 ? -1 : res);
     }
 };
