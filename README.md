@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/freakin23/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/freakin23/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/freakin23/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2580-circular-sentence](https://github.com/freakin23/LeetCode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/freakin23/LeetCode/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/freakin23/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
