@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/freakin23/LeetCode/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/freakin23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/freakin23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0812-rotate-string](https://github.com/freakin23/LeetCode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/freakin23/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/freakin23/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/freakin23/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -403,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/freakin23/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
