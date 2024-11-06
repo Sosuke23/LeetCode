@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-minimum-processing-time](https://github.com/freakin23/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/freakin23/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/freakin23/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/freakin23/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/freakin23/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3151-minimum-processing-time](https://github.com/freakin23/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/freakin23/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/freakin23/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2621-find-xor-beauty-of-array](https://github.com/freakin23/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/freakin23/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/freakin23/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/freakin23/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
