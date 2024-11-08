@@ -1,43 +1,52 @@
 class Solution {
+private:
+    bool isSafe(int i, int j, int n, int m) {
+        return i >= 0 && i < n && j >= 0 && j < m;
+    }
+
 public:
     int trapRainWater(vector<vector<int>>& heightMap) {
-        typedef pair<int, int> cell;
-        priority_queue<cell, vector<cell>, greater<cell>> q;
-        int m = heightMap.size();
-        
-        if (m == 0) {
-            return 0;
-        }
-        int n = heightMap[0].size();
-        vector<int> visited(m * n, false);
+        int n = heightMap.size();
+        int m = heightMap[0].size();
 
-        for (int i = 0; i < m; ++i)
-            for (int j = 0; j < n; ++j) {
-                if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
-                    if (!visited[i * n + j]) {
-                        q.push(cell(heightMap[i][j], i * n + j));
-                    }
-                    visited[i * n + j] = true;
+        vector<vector<bool>> visited(n, vector<bool>(m, false));
+
+        priority_queue<pair<int, pair<int, int>>, 
+                       vector<pair<int, pair<int, int>>>, 
+                       greater<pair<int, pair<int, int>>>> pq;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (i == 0 || j == 0 || i == n - 1 || j == m - 1) {
+                    pq.push({heightMap[i][j], {i, j}});
+                    visited[i][j] = true;
                 }
             }
+        }
 
-        int dir[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        int res = 0;
-        while (!q.empty()) {
-            cell c = q.top();
-            q.pop();
-            int i = c.second / n, j = c.second % n;
+        vector<vector<int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 
-            for (int r = 0; r < 4; ++r) {
-                int ii = i + dir[r][0], jj = j + dir[r][1];
-                if (ii < 0 || ii >= m || jj < 0 || jj >= n || visited[ii * n + jj]) {
-                    continue;
+        int water = 0; 
+
+        while (!pq.empty()) {
+            auto p = pq.top();
+            pq.pop();
+
+            int height = p.first;
+            int row = p.second.first;
+            int col = p.second.second;
+
+            for (auto& dir : directions) {
+                int nextRow = row + dir[0];
+                int nextCol = col + dir[1];
+
+                if (isSafe(nextRow, nextCol, n, m) && visited[nextRow][nextCol] == false) {
+                    water += max(0, height - heightMap[nextRow][nextCol]);
+                    pq.push({max(height, heightMap[nextRow][nextCol]), {nextRow, nextCol}});
+                    visited[nextRow][nextCol] = true;
                 }
-                res += max(0, c.first - heightMap[ii][jj]);
-                q.push(cell(max(c.first, heightMap[ii][jj]), ii * n + jj));
-                visited[ii * n + jj] = true;
             }
         }
-        return res;
+        return water;
     }
 };
