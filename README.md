@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/freakin23/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/freakin23/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/freakin23/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/freakin23/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/freakin23/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/freakin23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1733-maximum-number-of-visible-points](https://github.com/freakin23/LeetCode/tree/master/1733-maximum-number-of-visible-points) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/freakin23/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/freakin23/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/freakin23/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/freakin23/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/freakin23/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2621-find-xor-beauty-of-array](https://github.com/freakin23/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/freakin23/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/freakin23/LeetCode/tree/master/3394-minimum-array-end) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/freakin23/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/freakin23/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
