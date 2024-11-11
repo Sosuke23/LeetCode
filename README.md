@@ -449,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/freakin23/LeetCode/tree/master/0812-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/freakin23/LeetCode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
