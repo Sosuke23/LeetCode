@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/freakin23/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/freakin23/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/freakin23/LeetCode/tree/master/0189-rotate-array) |
+| [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/freakin23/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/freakin23/LeetCode/tree/master/0260-single-number-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/freakin23/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/freakin23/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/freakin23/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/freakin23/LeetCode/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/freakin23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/freakin23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/freakin23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 ## String Matching
 |  |
@@ -454,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0180-consecutive-numbers](https://github.com/freakin23/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/freakin23/LeetCode/tree/master/0182-duplicate-emails) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
