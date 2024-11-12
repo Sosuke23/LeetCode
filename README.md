@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/freakin23/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/freakin23/LeetCode/tree/master/3379-score-of-a-string) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/freakin23/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3451-string-compression-iii](https://github.com/freakin23/LeetCode/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/freakin23/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3468-find-the-encrypted-string](https://github.com/freakin23/LeetCode/tree/master/3468-find-the-encrypted-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/freakin23/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/freakin23/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/freakin23/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/freakin23/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Heap (Priority Queue)
