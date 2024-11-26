@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/freakin23/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2379-maximum-total-importance-of-roads](https://github.com/freakin23/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3189-find-champion-ii](https://github.com/freakin23/LeetCode/tree/master/3189-find-champion-ii) |
 ## Tree
 |  |
 | ------- |
