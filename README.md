@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/freakin23/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
+| [2201-valid-arrangement-of-pairs](https://github.com/freakin23/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/freakin23/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/freakin23/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2201-valid-arrangement-of-pairs](https://github.com/freakin23/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/freakin23/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/freakin23/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/freakin23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/freakin23/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
