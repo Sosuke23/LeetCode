@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/freakin23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/freakin23/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/freakin23/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1675-magnetic-force-between-two-balls](https://github.com/freakin23/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/freakin23/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1733-maximum-number-of-visible-points](https://github.com/freakin23/LeetCode/tree/master/1733-maximum-number-of-visible-points) |
@@ -113,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/freakin23/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/freakin23/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/freakin23/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/freakin23/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/freakin23/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/freakin23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/freakin23/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/freakin23/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## String
 |  |
