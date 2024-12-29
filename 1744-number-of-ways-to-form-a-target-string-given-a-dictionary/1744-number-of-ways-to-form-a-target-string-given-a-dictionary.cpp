@@ -1,32 +1,17 @@
 class Solution {
-    vector<vector<int>>dp;
-    vector<vector<int>>freq;
-    
-    long getWords(vector<string>&words, string &target, int i, int j){
-        if(j == target.size())return 1;
-        if(i == words[0].size() || words[0].size() - i < target.size() - j) return 0;
-        
-        if(dp[i][j] != -1)return dp[i][j];
-        
-        long count = 0;
-        int  curPos = target[j] - 'a';
-        count += getWords(words, target, i + 1, j);
-        count += freq[i][curPos] * getWords(words, target, i + 1, j + 1);
-        
-        return dp[i][j] = count % 1000000007;
-    }
 public:
     int numWays(vector<string>& words, string target) {
-        
-        dp.resize(words[0].size(), vector<int>(target.size(), -1));
-        freq.resize(words[0].size(), vector<int>(26, 0));
-        
-        for(int i=0; i<words.size(); i++){
-            for(int j = 0; j < words[0].size(); j++){
-                int  curPos = words[i][j] - 'a';
-                freq[j][curPos]++;
+        int n = target.length(), mod = 1e9 + 7;
+        vector<long> res(n + 1);
+        res[0] = 1;
+        for (int i = 0; i < words[0].length(); ++i) {
+            vector<int> count(26);
+            for (auto& w : words)
+                count[w[i] - 'a']++;
+            for (int j = n - 1; j >= 0; --j) {
+                res[j + 1] += res[j] * count[target[j] - 'a'] % mod;
             }
         }
-        return getWords(words,target,0,0);
+        return res[n] % mod;
     }
 };
