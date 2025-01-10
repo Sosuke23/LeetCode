@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/freakin23/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/freakin23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/freakin23/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/freakin23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/freakin23/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/freakin23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/freakin23/LeetCode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/freakin23/LeetCode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/freakin23/LeetCode/tree/master/0952-word-subsets) |
 | [1122-longest-duplicate-substring](https://github.com/freakin23/LeetCode/tree/master/1122-longest-duplicate-substring) |
 | [1197-parsing-a-boolean-expression](https://github.com/freakin23/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/freakin23/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/freakin23/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/freakin23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0952-word-subsets](https://github.com/freakin23/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/freakin23/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
