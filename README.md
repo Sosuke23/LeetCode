@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/freakin23/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1876-map-of-highest-peak](https://github.com/freakin23/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/freakin23/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/freakin23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/freakin23/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/freakin23/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/freakin23/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/freakin23/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/freakin23/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/freakin23/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/freakin23/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/freakin23/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/freakin23/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
