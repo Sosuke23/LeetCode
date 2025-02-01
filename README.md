@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/freakin23/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/freakin23/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/freakin23/LeetCode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/freakin23/LeetCode/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/freakin23/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/freakin23/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/freakin23/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
