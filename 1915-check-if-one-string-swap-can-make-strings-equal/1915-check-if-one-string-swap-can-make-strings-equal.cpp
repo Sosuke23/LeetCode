@@ -6,8 +6,9 @@ public:
             if (s1[i] != s2[i]) {
                 idx.push_back(i);
             }
-            if (idx.size() >= 2)
+            if (idx.size() >= 2) {
                 break;
+            }
         }
         if (idx.size() == 1) {
             return false;
