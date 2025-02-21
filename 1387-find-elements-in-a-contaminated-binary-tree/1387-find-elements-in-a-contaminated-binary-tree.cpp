@@ -10,29 +10,22 @@
  * };
  */
 class FindElements {
+    unordered_set<int> set;
 public:
-std::unordered_set<int> u_set;
-
-    void dfs(TreeNode* root, int prev) {
-        if (root == nullptr) {
-            return;
-        }
-        if (root->left) {
-            u_set.insert(2 * prev + 1);
-            dfs(root->left, 2 * prev + 1);
-        }
-        if (root->right) {
-            u_set.insert(2 * prev + 2);
-            dfs(root->right, 2 * prev + 2);
-        }
+    void recover(TreeNode* root, int x) {
+        if (!root) return;
+        root->val = x;
+        set.emplace(x);
+        recover(root->left, 2 * x + 1);
+        recover(root->right, 2 * x + 2);
     }
+    
     FindElements(TreeNode* root) {
-        u_set.insert(0);
-        dfs(root, 0);
+        recover(root, 0);
     }
     
     bool find(int target) {
-        return (u_set.count(target));
+        return set.count(target);
     }
 };
 
