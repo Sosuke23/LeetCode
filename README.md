@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/freakin23/LeetCode/tree/master/1733-maximum-number-of-visible-points) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/freakin23/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/freakin23/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/freakin23/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/freakin23/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/freakin23/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/freakin23/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2610-closest-prime-numbers-in-range](https://github.com/freakin23/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/freakin23/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/freakin23/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
