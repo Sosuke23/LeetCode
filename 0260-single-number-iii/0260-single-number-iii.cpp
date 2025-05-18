@@ -1,18 +1,17 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for (auto x : nums) {
-            mp[x] += 1;
-        }
+        sort(nums.begin(), nums.end());
         vector<int> res;
-        for (auto &[key, val] : mp) {
-            if (val == 1) {
-                res.push_back(key);
+        for (int i = 0; i + 1 < (int)nums.size(); i++) {
+            if (nums[i] == nums[i + 1]) {
+                i += 1;
+            } else {
+                res.push_back(nums[i]);
             }
-            if ((int)res.size() == 2) {
-                break;
-            }
+        }
+        if ((int)res.size() == 1) {
+            res.push_back(nums.back());
         }
         return res;
     }
