@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/freakin23/LeetCode/tree/master/0189-rotate-array) |
 | [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/freakin23/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/freakin23/LeetCode/tree/master/0260-single-number-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/freakin23/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/freakin23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/freakin23/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/freakin23/LeetCode/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/freakin23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/freakin23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1122-longest-duplicate-substring](https://github.com/freakin23/LeetCode/tree/master/1122-longest-duplicate-substring) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/freakin23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sosuke23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/freakin23/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -902,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/freakin23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sosuke23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/freakin23/LeetCode/tree/master/2868-continuous-subarrays) |
