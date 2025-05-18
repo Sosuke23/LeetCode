@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3468-find-the-encrypted-string](https://github.com/freakin23/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/freakin23/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/freakin23/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/freakin23/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/freakin23/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/freakin23/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/freakin23/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/freakin23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sosuke23/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sosuke23/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/freakin23/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Binary Indexed Tree
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/freakin23/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/freakin23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/freakin23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Enumeration
 |  |
