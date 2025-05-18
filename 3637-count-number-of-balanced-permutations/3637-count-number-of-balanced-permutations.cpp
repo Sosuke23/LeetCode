@@ -3,7 +3,6 @@ public:
     int countBalancedPermutations(string num) {
         int n = num.size();
         int m = (n + 1) / 2;
-
         int sm = 0, cnt[10] = {0};
         for (char c : num) {
             sm += c - '0';
@@ -13,10 +12,8 @@ public:
             return 0;
         }
         sm /= 2;
-
         const int MOD = 1e9 + 7;
         auto update = [&](long long& a, long long b) { a = (a + b) % MOD; };
-
         long long C[n + 1][n + 1];
         memset(C, 0, sizeof(C));
         for (int i = 0; i <= n; i++) {
@@ -25,7 +22,6 @@ public:
                 update(C[i][j], C[i - 1][j - 1] + C[i - 1][j]);
             }
         }
-
         long long f[11][m + 1][sm + 1];
         memset(f, 0, sizeof(f));
         f[0][0][0] = 1;
