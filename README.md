@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/freakin23/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/freakin23/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Sosuke23/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/freakin23/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/freakin23/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sosuke23/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/freakin23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sosuke23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sosuke23/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/freakin23/LeetCode/tree/master/2434-design-a-number-container-system) |
