@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sosuke23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sosuke23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Sosuke23/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/freakin23/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 ## Stack
 |  |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/freakin23/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sosuke23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sosuke23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 ## Two Pointers
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/freakin23/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
+| [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Sosuke23/LeetCode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/freakin23/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/freakin23/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3639-zero-array-transformation-i](https://github.com/Sosuke23/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Recursion
 |  |
 | ------- |
