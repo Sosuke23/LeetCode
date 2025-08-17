@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Sosuke23/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Sosuke23/LeetCode/tree/master/0258-add-digits) |
 | [0670-maximum-swap](https://github.com/freakin23/LeetCode/tree/master/0670-maximum-swap) |
+| [0867-new-21-game](https://github.com/Sosuke23/LeetCode/tree/master/0867-new-21-game) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/freakin23/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sosuke23/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/freakin23/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/Sosuke23/LeetCode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/freakin23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1122-longest-duplicate-substring](https://github.com/freakin23/LeetCode/tree/master/1122-longest-duplicate-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/freakin23/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/freakin23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sosuke23/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/Sosuke23/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Sosuke23/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/freakin23/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/freakin23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1070,4 +1073,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sosuke23/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Sosuke23/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
