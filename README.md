@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/freakin23/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/freakin23/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/freakin23/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Sosuke23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2465-shifting-letters-ii](https://github.com/freakin23/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/freakin23/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sosuke23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2232-adding-spaces-to-a-string](https://github.com/freakin23/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/freakin23/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Sosuke23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/freakin23/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/freakin23/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sosuke23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sosuke23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2379-maximum-total-importance-of-roads](https://github.com/freakin23/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Sosuke23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/freakin23/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/freakin23/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/freakin23/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sosuke23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/freakin23/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Sosuke23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/freakin23/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/freakin23/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/freakin23/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
