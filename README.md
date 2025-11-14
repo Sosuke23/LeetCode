@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sosuke23/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Sosuke23/LeetCode/tree/master/0306-additive-number) |
 | [0392-is-subsequence](https://github.com/freakin23/LeetCode/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Sosuke23/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/freakin23/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Sosuke23/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/freakin23/LeetCode/tree/master/0952-word-subsets) |
