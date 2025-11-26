@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/freakin23/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/freakin23/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sosuke23/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sosuke23/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2465-shifting-letters-ii](https://github.com/freakin23/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/freakin23/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/freakin23/LeetCode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/freakin23/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/freakin23/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sosuke23/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/freakin23/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sosuke23/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2164-two-best-non-overlapping-events](https://github.com/freakin23/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sosuke23/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/freakin23/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/freakin23/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/freakin23/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
