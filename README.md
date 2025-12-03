@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sosuke23/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/freakin23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Sosuke23/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sosuke23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sosuke23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Sosuke23/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sosuke23/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/freakin23/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sosuke23/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Sosuke23/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Sosuke23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sosuke23/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/freakin23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Sosuke23/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/freakin23/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Sosuke23/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1733-maximum-number-of-visible-points](https://github.com/freakin23/LeetCode/tree/master/1733-maximum-number-of-visible-points) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Sosuke23/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Design
 |  |
 | ------- |
