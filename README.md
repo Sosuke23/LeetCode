@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-maximum-points-after-enemy-battles](https://github.com/freakin23/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sosuke23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sosuke23/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/freakin23/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/freakin23/LeetCode/tree/master/3427-special-array-ii) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/freakin23/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
@@ -1170,4 +1172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Sosuke23/LeetCode/tree/master/0867-new-21-game) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
