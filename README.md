@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Sosuke23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/freakin23/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Sosuke23/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Sosuke23/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Sosuke23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/freakin23/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Sosuke23/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
 |  |
