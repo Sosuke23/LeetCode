@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sosuke23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Sosuke23/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Enumeration
 |  |
 | ------- |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Sosuke23/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/freakin23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sosuke23/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Graph
 |  |
 | ------- |
