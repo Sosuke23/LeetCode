@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3847-find-the-score-difference-in-a-game](https://github.com/Sosuke23/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 ## Stack
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Sosuke23/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
+| [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 | [3889-mirror-frequency-distance](https://github.com/Sosuke23/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Heap (Priority Queue)
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sosuke23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
+| [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/Sosuke23/LeetCode/tree/master/3829-design-ride-sharing-system) |
+| [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1148,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
+| [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 ## String Matching
 |  |
 | ------- |
