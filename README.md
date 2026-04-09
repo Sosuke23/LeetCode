@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Sosuke23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/freakin23/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Sosuke23/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/freakin23/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/freakin23/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/freakin23/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Sosuke23/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sosuke23/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sosuke23/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
