@@ -1172,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/freakin23/LeetCode/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/freakin23/LeetCode/tree/master/0626-exchange-seats) |
 | [1523-capital-gainloss](https://github.com/freakin23/LeetCode/tree/master/1523-capital-gainloss) |
+| [1789-primary-department-for-each-employee](https://github.com/Sosuke23/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [2110-employees-with-missing-information](https://github.com/freakin23/LeetCode/tree/master/2110-employees-with-missing-information) |
 ## Bucket Sort
 |  |
