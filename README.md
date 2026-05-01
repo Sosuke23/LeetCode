@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Sosuke23/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sosuke23/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3687-library-late-fee-calculator](https://github.com/Sosuke23/LeetCode/tree/master/3687-library-late-fee-calculator) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/Sosuke23/LeetCode/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/freakin23/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sosuke23/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/freakin23/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/freakin23/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Sosuke23/LeetCode/tree/master/3582-generate-tag-for-video-caption) |
+| [3687-library-late-fee-calculator](https://github.com/Sosuke23/LeetCode/tree/master/3687-library-late-fee-calculator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Sosuke23/LeetCode/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Sosuke23/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
