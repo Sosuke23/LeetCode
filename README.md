@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sosuke23/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/freakin23/LeetCode/tree/master/3151-minimum-processing-time) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sosuke23/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3173-bitwise-or-of-adjacent-elements](https://github.com/Sosuke23/LeetCode/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/freakin23/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Sosuke23/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/freakin23/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/freakin23/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/freakin23/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/freakin23/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3173-bitwise-or-of-adjacent-elements](https://github.com/Sosuke23/LeetCode/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sosuke23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/freakin23/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
