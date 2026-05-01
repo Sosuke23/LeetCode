@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Sosuke23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3662-filter-characters-by-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3662-filter-characters-by-frequency) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sosuke23/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/Sosuke23/LeetCode/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sosuke23/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3662-filter-characters-by-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3662-filter-characters-by-frequency) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Sosuke23/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/freakin23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3662-filter-characters-by-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3662-filter-characters-by-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Sosuke23/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
