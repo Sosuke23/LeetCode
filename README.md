@@ -1280,4 +1280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Sosuke23/LeetCode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+## Concurrency
+|  |
+| ------- |
+| [1279-traffic-light-controlled-intersection](https://github.com/Sosuke23/LeetCode/tree/master/1279-traffic-light-controlled-intersection) |
 <!---LeetCode Topics End-->
