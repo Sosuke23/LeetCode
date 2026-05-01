@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/freakin23/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/freakin23/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/freakin23/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/freakin23/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/freakin23/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sosuke23/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/freakin23/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/freakin23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3468-find-the-encrypted-string](https://github.com/freakin23/LeetCode/tree/master/3468-find-the-encrypted-string) |
+| [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/freakin23/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-count-odd-letters-from-number](https://github.com/Sosuke23/LeetCode/tree/master/3581-count-odd-letters-from-number) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sosuke23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Sosuke23/LeetCode/tree/master/3321-type-of-triangle) |
+| [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3667-sort-array-by-absolute-value](https://github.com/Sosuke23/LeetCode/tree/master/3667-sort-array-by-absolute-value) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sosuke23/LeetCode/tree/master/3814-maximum-capacity-within-budget) |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sosuke23/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/freakin23/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/freakin23/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
 ## Geometry
 |  |
 | ------- |
