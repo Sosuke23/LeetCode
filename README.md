@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/Sosuke23/LeetCode/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/freakin23/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Sosuke23/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/Sosuke23/LeetCode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/freakin23/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/freakin23/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/freakin23/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/freakin23/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/freakin23/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/Sosuke23/LeetCode/tree/master/3173-bitwise-or-of-adjacent-elements) |
+| [3199-count-triplets-with-even-xor-set-bits-i](https://github.com/Sosuke23/LeetCode/tree/master/3199-count-triplets-with-even-xor-set-bits-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sosuke23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/freakin23/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
