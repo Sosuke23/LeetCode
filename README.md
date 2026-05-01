@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/freakin23/LeetCode/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sosuke23/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/freakin23/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3450-maximum-students-on-a-single-bench](https://github.com/Sosuke23/LeetCode/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/freakin23/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/freakin23/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/freakin23/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/freakin23/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/freakin23/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sosuke23/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3450-maximum-students-on-a-single-bench](https://github.com/Sosuke23/LeetCode/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/freakin23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/freakin23/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/freakin23/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
