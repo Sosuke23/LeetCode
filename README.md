@@ -1207,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-capital-gainloss](https://github.com/freakin23/LeetCode/tree/master/1523-capital-gainloss) |
 | [1789-primary-department-for-each-employee](https://github.com/Sosuke23/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [2110-employees-with-missing-information](https://github.com/freakin23/LeetCode/tree/master/2110-employees-with-missing-information) |
+| [2339-all-the-matches-of-the-league](https://github.com/Sosuke23/LeetCode/tree/master/2339-all-the-matches-of-the-league) |
 | [2989-class-performance](https://github.com/Sosuke23/LeetCode/tree/master/2989-class-performance) |
 ## Bucket Sort
 |  |
