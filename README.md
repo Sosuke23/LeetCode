@@ -1222,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/freakin23/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [2112-the-airport-with-the-most-traffic](https://github.com/Sosuke23/LeetCode/tree/master/2112-the-airport-with-the-most-traffic) |
 | [2238-number-of-times-a-driver-was-a-passenger](https://github.com/Sosuke23/LeetCode/tree/master/2238-number-of-times-a-driver-was-a-passenger) |
+| [2308-arrange-table-by-gender](https://github.com/Sosuke23/LeetCode/tree/master/2308-arrange-table-by-gender) |
 | [2314-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/Sosuke23/LeetCode/tree/master/2314-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
 | [2324-product-sales-analysis-iv](https://github.com/Sosuke23/LeetCode/tree/master/2324-product-sales-analysis-iv) |
 | [2339-all-the-matches-of-the-league](https://github.com/Sosuke23/LeetCode/tree/master/2339-all-the-matches-of-the-league) |
