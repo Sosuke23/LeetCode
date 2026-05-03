@@ -1212,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Sosuke23/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/Sosuke23/LeetCode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [2110-employees-with-missing-information](https://github.com/freakin23/LeetCode/tree/master/2110-employees-with-missing-information) |
+| [2324-product-sales-analysis-iv](https://github.com/Sosuke23/LeetCode/tree/master/2324-product-sales-analysis-iv) |
 | [2339-all-the-matches-of-the-league](https://github.com/Sosuke23/LeetCode/tree/master/2339-all-the-matches-of-the-league) |
 | [2985-calculate-compressed-mean](https://github.com/Sosuke23/LeetCode/tree/master/2985-calculate-compressed-mean) |
 | [2989-class-performance](https://github.com/Sosuke23/LeetCode/tree/master/2989-class-performance) |
