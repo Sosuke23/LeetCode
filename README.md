@@ -1214,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-count-apples-and-oranges](https://github.com/Sosuke23/LeetCode/tree/master/1715-count-apples-and-oranges) |
 | [1789-primary-department-for-each-employee](https://github.com/Sosuke23/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/Sosuke23/LeetCode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
+| [2020-number-of-accounts-that-did-not-stream](https://github.com/Sosuke23/LeetCode/tree/master/2020-number-of-accounts-that-did-not-stream) |
 | [2110-employees-with-missing-information](https://github.com/freakin23/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [2314-the-first-day-of-the-maximum-recorded-degree-in-each-city](https://github.com/Sosuke23/LeetCode/tree/master/2314-the-first-day-of-the-maximum-recorded-degree-in-each-city) |
 | [2324-product-sales-analysis-iv](https://github.com/Sosuke23/LeetCode/tree/master/2324-product-sales-analysis-iv) |
