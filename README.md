@@ -1210,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-students-with-invalid-departments](https://github.com/Sosuke23/LeetCode/tree/master/1350-students-with-invalid-departments) |
 | [1355-activity-participants](https://github.com/Sosuke23/LeetCode/tree/master/1355-activity-participants) |
 | [1364-number-of-trusted-contacts-of-a-customer](https://github.com/Sosuke23/LeetCode/tree/master/1364-number-of-trusted-contacts-of-a-customer) |
+| [1440-evaluate-boolean-expression](https://github.com/Sosuke23/LeetCode/tree/master/1440-evaluate-boolean-expression) |
 | [1523-capital-gainloss](https://github.com/freakin23/LeetCode/tree/master/1523-capital-gainloss) |
 | [1613-find-the-missing-ids](https://github.com/Sosuke23/LeetCode/tree/master/1613-find-the-missing-ids) |
 | [1715-count-apples-and-oranges](https://github.com/Sosuke23/LeetCode/tree/master/1715-count-apples-and-oranges) |
