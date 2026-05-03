@@ -1218,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2339-all-the-matches-of-the-league](https://github.com/Sosuke23/LeetCode/tree/master/2339-all-the-matches-of-the-league) |
 | [2985-calculate-compressed-mean](https://github.com/Sosuke23/LeetCode/tree/master/2985-calculate-compressed-mean) |
 | [2989-class-performance](https://github.com/Sosuke23/LeetCode/tree/master/2989-class-performance) |
+| [3497-analyze-subscription-conversion](https://github.com/Sosuke23/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 ## Bucket Sort
 |  |
 | ------- |
