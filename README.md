@@ -1206,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0612-shortest-distance-in-a-plane](https://github.com/Sosuke23/LeetCode/tree/master/0612-shortest-distance-in-a-plane) |
 | [0614-second-degree-follower](https://github.com/Sosuke23/LeetCode/tree/master/0614-second-degree-follower) |
 | [0626-exchange-seats](https://github.com/freakin23/LeetCode/tree/master/0626-exchange-seats) |
+| [1045-customers-who-bought-all-products](https://github.com/Sosuke23/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1350-students-with-invalid-departments](https://github.com/Sosuke23/LeetCode/tree/master/1350-students-with-invalid-departments) |
 | [1523-capital-gainloss](https://github.com/freakin23/LeetCode/tree/master/1523-capital-gainloss) |
 | [1789-primary-department-for-each-employee](https://github.com/Sosuke23/LeetCode/tree/master/1789-primary-department-for-each-employee) |
