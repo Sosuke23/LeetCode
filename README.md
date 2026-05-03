@@ -1239,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2989-class-performance](https://github.com/Sosuke23/LeetCode/tree/master/2989-class-performance) |
 | [3050-pizza-toppings-cost-analysis](https://github.com/Sosuke23/LeetCode/tree/master/3050-pizza-toppings-cost-analysis) |
 | [3322-premier-league-table-ranking-iii](https://github.com/Sosuke23/LeetCode/tree/master/3322-premier-league-table-ranking-iii) |
+| [3328-find-cities-in-each-state-ii](https://github.com/Sosuke23/LeetCode/tree/master/3328-find-cities-in-each-state-ii) |
 | [3497-analyze-subscription-conversion](https://github.com/Sosuke23/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 ## Bucket Sort
 |  |
