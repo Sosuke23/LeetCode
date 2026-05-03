@@ -1,21 +1,9 @@
-# Write your MySQL query statement below
--- Step 1: Calculate the total count of each product per user
-WITH user_product_count AS (
-  
-  SELECT user_id, product_id, SUM(quantity) as total_quantity
-  FROM Sales
-  GROUP BY user_id, product_id
-),
-
--- Step 2: Rank the user purchases based on total amount spent on each product
-user_spent AS (
-  
-  SELECT user_id, product_id,
-    RANK() OVER (PARTITION BY user_id ORDER BY total_quantity * price DESC) as rk
-  FROM user_product_count s INNER JOIN Product p USING(product_id)
+WITH temp AS (
+    SELECT s.user_id, s.product_id, RANK() OVER (PARTITION BY s.user_id ORDER BY SUM(s.quantity * p.price) DESC) AS top_product
+    FROM Sales s
+    LEFT JOIN Product p ON s.product_id = p.product_id
+    GROUP BY s.user_id, p.product_id, p.price
 )
-
--- Step 3: Filter the Products user spend the most money
 SELECT user_id, product_id
-FROM user_spent
-WHERE rk = 1
+FROM temp
+WHERE top_product = 1
