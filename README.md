@@ -1219,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Sosuke23/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/Sosuke23/LeetCode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [1867-orders-with-maximum-quantity-above-average](https://github.com/Sosuke23/LeetCode/tree/master/1867-orders-with-maximum-quantity-above-average) |
+| [1951-all-the-pairs-with-the-maximum-number-of-common-followers](https://github.com/Sosuke23/LeetCode/tree/master/1951-all-the-pairs-with-the-maximum-number-of-common-followers) |
 | [2020-number-of-accounts-that-did-not-stream](https://github.com/Sosuke23/LeetCode/tree/master/2020-number-of-accounts-that-did-not-stream) |
 | [2051-the-category-of-each-member-in-the-store](https://github.com/Sosuke23/LeetCode/tree/master/2051-the-category-of-each-member-in-the-store) |
 | [2110-employees-with-missing-information](https://github.com/freakin23/LeetCode/tree/master/2110-employees-with-missing-information) |
