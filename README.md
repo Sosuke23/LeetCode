@@ -1208,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/freakin23/LeetCode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Sosuke23/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1112-highest-grade-for-each-student](https://github.com/Sosuke23/LeetCode/tree/master/1112-highest-grade-for-each-student) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Sosuke23/LeetCode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1350-students-with-invalid-departments](https://github.com/Sosuke23/LeetCode/tree/master/1350-students-with-invalid-departments) |
 | [1355-activity-participants](https://github.com/Sosuke23/LeetCode/tree/master/1355-activity-participants) |
 | [1364-number-of-trusted-contacts-of-a-customer](https://github.com/Sosuke23/LeetCode/tree/master/1364-number-of-trusted-contacts-of-a-customer) |
