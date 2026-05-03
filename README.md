@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Sosuke23/LeetCode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/freakin23/LeetCode/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3291-find-if-array-can-be-sorted](https://github.com/freakin23/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Sosuke23/LeetCode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sosuke23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/freakin23/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Sosuke23/LeetCode/tree/master/3321-type-of-triangle) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Sosuke23/LeetCode/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/freakin23/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Sosuke23/LeetCode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+| [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Sosuke23/LeetCode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/freakin23/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -1329,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Sosuke23/LeetCode/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+| [3294-convert-doubly-linked-list-to-array-ii](https://github.com/Sosuke23/LeetCode/tree/master/3294-convert-doubly-linked-list-to-array-ii) |
 ## Concurrency
 |  |
 | ------- |
