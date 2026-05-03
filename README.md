@@ -1233,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-product-sales-analysis-iv](https://github.com/Sosuke23/LeetCode/tree/master/2324-product-sales-analysis-iv) |
 | [2339-all-the-matches-of-the-league](https://github.com/Sosuke23/LeetCode/tree/master/2339-all-the-matches-of-the-league) |
 | [2686-immediate-food-delivery-iii](https://github.com/Sosuke23/LeetCode/tree/master/2686-immediate-food-delivery-iii) |
+| [2854-rolling-average-steps](https://github.com/Sosuke23/LeetCode/tree/master/2854-rolling-average-steps) |
 | [2985-calculate-compressed-mean](https://github.com/Sosuke23/LeetCode/tree/master/2985-calculate-compressed-mean) |
 | [2989-class-performance](https://github.com/Sosuke23/LeetCode/tree/master/2989-class-performance) |
 | [3322-premier-league-table-ranking-iii](https://github.com/Sosuke23/LeetCode/tree/master/3322-premier-league-table-ranking-iii) |
