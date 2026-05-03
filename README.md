@@ -1215,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1398-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Sosuke23/LeetCode/tree/master/1398-customers-who-bought-products-a-and-b-but-not-c) |
 | [1440-evaluate-boolean-expression](https://github.com/Sosuke23/LeetCode/tree/master/1440-evaluate-boolean-expression) |
 | [1523-capital-gainloss](https://github.com/freakin23/LeetCode/tree/master/1523-capital-gainloss) |
+| [1532-the-most-recent-three-orders](https://github.com/Sosuke23/LeetCode/tree/master/1532-the-most-recent-three-orders) |
 | [1613-find-the-missing-ids](https://github.com/Sosuke23/LeetCode/tree/master/1613-find-the-missing-ids) |
 | [1709-biggest-window-between-visits](https://github.com/Sosuke23/LeetCode/tree/master/1709-biggest-window-between-visits) |
 | [1715-count-apples-and-oranges](https://github.com/Sosuke23/LeetCode/tree/master/1715-count-apples-and-oranges) |
