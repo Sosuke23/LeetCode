@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/freakin23/LeetCode/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sosuke23/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/freakin23/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-permutations-iii](https://github.com/Sosuke23/LeetCode/tree/master/3437-permutations-iii) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/Sosuke23/LeetCode/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/freakin23/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/freakin23/LeetCode/tree/master/3463-alternating-groups-i) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sosuke23/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/freakin23/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/freakin23/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3437-permutations-iii](https://github.com/Sosuke23/LeetCode/tree/master/3437-permutations-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/freakin23/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
