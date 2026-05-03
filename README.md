@@ -1201,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0180-consecutive-numbers](https://github.com/freakin23/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/freakin23/LeetCode/tree/master/0182-duplicate-emails) |
+| [0585-investments-in-2016](https://github.com/Sosuke23/LeetCode/tree/master/0585-investments-in-2016) |
 | [0610-triangle-judgement](https://github.com/freakin23/LeetCode/tree/master/0610-triangle-judgement) |
 | [0614-second-degree-follower](https://github.com/Sosuke23/LeetCode/tree/master/0614-second-degree-follower) |
 | [0626-exchange-seats](https://github.com/freakin23/LeetCode/tree/master/0626-exchange-seats) |
