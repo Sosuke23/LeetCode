@@ -1218,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-count-apples-and-oranges](https://github.com/Sosuke23/LeetCode/tree/master/1715-count-apples-and-oranges) |
 | [1789-primary-department-for-each-employee](https://github.com/Sosuke23/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1821-find-customers-with-positive-revenue-this-year](https://github.com/Sosuke23/LeetCode/tree/master/1821-find-customers-with-positive-revenue-this-year) |
+| [1867-orders-with-maximum-quantity-above-average](https://github.com/Sosuke23/LeetCode/tree/master/1867-orders-with-maximum-quantity-above-average) |
 | [2020-number-of-accounts-that-did-not-stream](https://github.com/Sosuke23/LeetCode/tree/master/2020-number-of-accounts-that-did-not-stream) |
 | [2110-employees-with-missing-information](https://github.com/freakin23/LeetCode/tree/master/2110-employees-with-missing-information) |
 | [2112-the-airport-with-the-most-traffic](https://github.com/Sosuke23/LeetCode/tree/master/2112-the-airport-with-the-most-traffic) |
