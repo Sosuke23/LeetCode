@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/Sosuke23/LeetCode/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3773-maximum-number-of-equal-length-runs](https://github.com/Sosuke23/LeetCode/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3817-good-indices-in-a-digit-string](https://github.com/Sosuke23/LeetCode/tree/master/3817-good-indices-in-a-digit-string) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Sosuke23/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/Sosuke23/LeetCode/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3662-filter-characters-by-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3662-filter-characters-by-frequency) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3773-maximum-number-of-equal-length-runs](https://github.com/Sosuke23/LeetCode/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Sosuke23/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/Sosuke23/LeetCode/tree/master/3829-design-ride-sharing-system) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3662-filter-characters-by-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3662-filter-characters-by-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3773-maximum-number-of-equal-length-runs](https://github.com/Sosuke23/LeetCode/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Sosuke23/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3889-mirror-frequency-distance](https://github.com/Sosuke23/LeetCode/tree/master/3889-mirror-frequency-distance) |
