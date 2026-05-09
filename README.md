@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/freakin23/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/freakin23/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/freakin23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/freakin23/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/freakin23/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/freakin23/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sosuke23/LeetCode/tree/master/0258-add-digits) |
 | [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/freakin23/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/freakin23/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/freakin23/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/freakin23/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Sosuke23/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/Sosuke23/LeetCode/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/freakin23/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1972-rotating-the-box](https://github.com/freakin23/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/freakin23/LeetCode/tree/master/2089-maximum-matrix-sum) |
