@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/freakin23/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1502-construct-k-palindrome-strings](https://github.com/freakin23/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sosuke23/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/freakin23/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/freakin23/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/freakin23/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1558-course-schedule-iv](https://github.com/freakin23/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Sosuke23/LeetCode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/freakin23/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sosuke23/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1558-course-schedule-iv](https://github.com/freakin23/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/freakin23/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
@@ -1179,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/freakin23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Sosuke23/LeetCode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1205,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/freakin23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Sosuke23/LeetCode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
