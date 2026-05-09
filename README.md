@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1506-find-root-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1506-find-root-of-n-ary-tree) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sosuke23/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/freakin23/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/freakin23/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/freakin23/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/freakin23/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -922,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1506-find-root-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1506-find-root-of-n-ary-tree) |
 | [1522-diameter-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1522-diameter-of-n-ary-tree) |
 | [1558-course-schedule-iv](https://github.com/freakin23/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Sosuke23/LeetCode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/freakin23/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1558-course-schedule-iv](https://github.com/freakin23/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
+| [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/freakin23/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/freakin23/LeetCode/tree/master/2103-find-all-groups-of-farmland) |
@@ -1191,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1506-find-root-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1506-find-root-of-n-ary-tree) |
 | [1522-diameter-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1522-diameter-of-n-ary-tree) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
+| [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Sosuke23/LeetCode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1219,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
+| [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Sosuke23/LeetCode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
