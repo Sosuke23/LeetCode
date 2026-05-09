@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sosuke23/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Sosuke23/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Sosuke23/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0776-split-bst](https://github.com/Sosuke23/LeetCode/tree/master/0776-split-bst) |
 | [1197-parsing-a-boolean-expression](https://github.com/freakin23/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/freakin23/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
@@ -1187,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sosuke23/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sosuke23/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/freakin23/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0776-split-bst](https://github.com/Sosuke23/LeetCode/tree/master/0776-split-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/freakin23/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/freakin23/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/0993-cousins-in-binary-tree) |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sosuke23/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sosuke23/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/freakin23/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0776-split-bst](https://github.com/Sosuke23/LeetCode/tree/master/0776-split-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/freakin23/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/freakin23/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/0993-cousins-in-binary-tree) |
@@ -1391,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sosuke23/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sosuke23/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0776-split-bst](https://github.com/Sosuke23/LeetCode/tree/master/0776-split-bst) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Sosuke23/LeetCode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Memoization
 |  |
