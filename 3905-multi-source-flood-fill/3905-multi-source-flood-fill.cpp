@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> colorGrid(int n, int m, vector<vector<int>>& sources) {
         std::vector<std::vector<int>> res(n, std::vector<int> (m, 0));
-        std::sort(rbegin(sources), rend(sources), [&] (const auto &a, const auto &b) {
+        std::sort(begin(sources), end(sources), [&] (const auto &a, const auto &b) {
             return a[2] > b[2];
         });
 
@@ -24,10 +24,10 @@ public:
 
         while (!sources.empty()) {
             std::vector<std::vector<int>> temp_sources;
-            while (!sources.empty()) {
+            for (int i = 0; i < sources.size(); i++) {
                 int row, col, colour;
-                row = sources.back()[0], col = sources.back()[1], colour = sources.back()[2]; 
-                sources.pop_back();
+                row = sources[i][0], col = sources[i][1], colour = sources[i][2]; 
+                // sources.pop_back();
                 
                 for (int i = 0; i < 4; i++) {
                     int new_row = row + dx[i];
@@ -41,7 +41,7 @@ public:
                 }
             }
             sources = temp_sources;
-            reverse(begin(sources), end(sources));
+            // reverse(begin(sources), end(sources));
         }
         return res;
     }
