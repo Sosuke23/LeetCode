@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/freakin23/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Sosuke23/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/Sosuke23/LeetCode/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2128-remove-all-ones-with-row-and-column-flips](https://github.com/Sosuke23/LeetCode/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sosuke23/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/freakin23/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/freakin23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/freakin23/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sosuke23/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/Sosuke23/LeetCode/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2164-two-best-non-overlapping-events](https://github.com/freakin23/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Sosuke23/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/freakin23/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -1215,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Sosuke23/LeetCode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
+| [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/Sosuke23/LeetCode/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/freakin23/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1247,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/Sosuke23/LeetCode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
+| [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/Sosuke23/LeetCode/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/freakin23/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1445,4 +1449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1279-traffic-light-controlled-intersection](https://github.com/Sosuke23/LeetCode/tree/master/1279-traffic-light-controlled-intersection) |
+## Game Theory
+|  |
+| ------- |
+| [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/Sosuke23/LeetCode/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 <!---LeetCode Topics End-->
