@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/freakin23/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/freakin23/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/freakin23/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sosuke23/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/freakin23/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/freakin23/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1222,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1506-find-root-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1506-find-root-of-n-ary-tree) |
 | [1522-diameter-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1522-diameter-of-n-ary-tree) |
+| [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Sosuke23/LeetCode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Sosuke23/LeetCode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1660-correct-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1660-correct-a-binary-tree) |
@@ -1304,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Sosuke23/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 | [2434-design-a-number-container-system](https://github.com/freakin23/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 | [3822-design-order-management-system](https://github.com/Sosuke23/LeetCode/tree/master/3822-design-order-management-system) |
@@ -1430,6 +1434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sosuke23/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Sosuke23/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0776-split-bst](https://github.com/Sosuke23/LeetCode/tree/master/0776-split-bst) |
+| [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Sosuke23/LeetCode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Memoization
 |  |
@@ -1469,4 +1474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/Sosuke23/LeetCode/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
+## Iterator
+|  |
+| ------- |
+| [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 <!---LeetCode Topics End-->
