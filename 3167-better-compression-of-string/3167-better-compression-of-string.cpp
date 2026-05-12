@@ -1,7 +1,8 @@
 class Solution {
 public:
     string betterCompression(string str) {
-        std::map<char, int> mp;
+
+        std::array<int, 26> cnt = {0};
         for (int i = 0; i < (int)str.size();) {
             if (str[i] >= 'a' and str[i] <= 'z') {
                 std::string freq = "";
@@ -13,16 +14,20 @@ public:
                         break;
                     }
                 }
-                mp[str[i]] += std::stoi(freq);
+                cnt[str[i] - 'a'] += std::stoi(freq);
                 i = j;
             }
         }
 
         std::string res = "";
-        for (auto &[key, val] : mp) {
-            res += key;
-            res += std::to_string(val);
+        for (int i = 0; i < 26; i++) {
+            if (cnt[i] == 0) {
+                continue;
+            }
+            res += ('a' + i);
+            res += std::to_string(cnt[i]);
         }
+
         return res;
     }
 };
