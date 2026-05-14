@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/freakin23/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Sosuke23/LeetCode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sosuke23/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/Sosuke23/LeetCode/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sosuke23/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1422,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/freakin23/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/Sosuke23/LeetCode/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 ## Topological Sort
 |  |
 | ------- |
