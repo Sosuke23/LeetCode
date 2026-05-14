@@ -14,7 +14,7 @@ public:
             t = s.substr(i, std::min(n - i, 3));
             if (umap.find(t) != umap.end()) {
                 res += umap[t];
-                i = i + 2;
+                i += 2;
                 continue;
             }
 
