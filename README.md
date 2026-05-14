@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3667-sort-array-by-absolute-value](https://github.com/Sosuke23/LeetCode/tree/master/3667-sort-array-by-absolute-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/freakin23/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3792-sum-of-increasing-product-blocks](https://github.com/Sosuke23/LeetCode/tree/master/3792-sum-of-increasing-product-blocks) |
 | [3817-good-indices-in-a-digit-string](https://github.com/Sosuke23/LeetCode/tree/master/3817-good-indices-in-a-digit-string) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sosuke23/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-number-of-student-replacements](https://github.com/Sosuke23/LeetCode/tree/master/3616-number-of-student-replacements) |
 | [3687-library-late-fee-calculator](https://github.com/Sosuke23/LeetCode/tree/master/3687-library-late-fee-calculator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3792-sum-of-increasing-product-blocks](https://github.com/Sosuke23/LeetCode/tree/master/3792-sum-of-increasing-product-blocks) |
 | [3819-rotate-non-negative-elements](https://github.com/Sosuke23/LeetCode/tree/master/3819-rotate-non-negative-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Sosuke23/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
