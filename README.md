@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3860-unique-email-groups](https://github.com/Sosuke23/LeetCode/tree/master/3860-unique-email-groups) |
 | [3865-reverse-k-subarrays](https://github.com/Sosuke23/LeetCode/tree/master/3865-reverse-k-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3874-valid-subarrays-with-exactly-one-peak](https://github.com/Sosuke23/LeetCode/tree/master/3874-valid-subarrays-with-exactly-one-peak) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Sosuke23/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sosuke23/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Sosuke23/LeetCode/tree/master/3871-count-commas-in-range-ii) |
+| [3874-valid-subarrays-with-exactly-one-peak](https://github.com/Sosuke23/LeetCode/tree/master/3874-valid-subarrays-with-exactly-one-peak) |
 ## Number Theory
 |  |
 | ------- |
