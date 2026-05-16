@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
 | [0259-3sum-smaller](https://github.com/Sosuke23/LeetCode/tree/master/0259-3sum-smaller) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Sosuke23/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0277-find-the-celebrity](https://github.com/Sosuke23/LeetCode/tree/master/0277-find-the-celebrity) |
 | [0392-is-subsequence](https://github.com/freakin23/LeetCode/tree/master/0392-is-subsequence) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0868-push-dominoes](https://github.com/Sosuke23/LeetCode/tree/master/0868-push-dominoes) |
@@ -1493,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/Sosuke23/LeetCode/tree/master/0277-find-the-celebrity) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
@@ -1521,4 +1523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/Sosuke23/LeetCode/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
