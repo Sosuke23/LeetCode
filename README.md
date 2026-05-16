@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/freakin23/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
 | [0260-single-number-iii](https://github.com/freakin23/LeetCode/tree/master/0260-single-number-iii) |
 | [0407-trapping-rain-water-ii](https://github.com/freakin23/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sosuke23/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/freakin23/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sosuke23/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sosuke23/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Sosuke23/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0392-is-subsequence](https://github.com/freakin23/LeetCode/tree/master/0392-is-subsequence) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -1331,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sosuke23/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
 | [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
@@ -1504,5 +1507,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 <!---LeetCode Topics End-->
