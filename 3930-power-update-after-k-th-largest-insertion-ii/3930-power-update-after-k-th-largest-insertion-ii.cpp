@@ -34,8 +34,6 @@ public:
             int n = (int)idx_multiset.size();
             auto ele = idx_multiset.find_by_order(n - k);
             int x = *ele;
-            std::cout << x << " ";
-
             p = modPow(p, x);
             res.push_back(p);
         }
