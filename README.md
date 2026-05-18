@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/freakin23/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/freakin23/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/Sosuke23/LeetCode/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3379-score-of-a-string](https://github.com/freakin23/LeetCode/tree/master/3379-score-of-a-string) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/freakin23/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sosuke23/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3167-better-compression-of-string](https://github.com/Sosuke23/LeetCode/tree/master/3167-better-compression-of-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/freakin23/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/freakin23/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/Sosuke23/LeetCode/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/freakin23/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/freakin23/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sosuke23/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/freakin23/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/freakin23/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/freakin23/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/Sosuke23/LeetCode/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/freakin23/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/freakin23/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/freakin23/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
