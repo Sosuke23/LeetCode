@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3205-maximum-array-hopping-score-i](https://github.com/Sosuke23/LeetCode/tree/master/3205-maximum-array-hopping-score-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sosuke23/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/freakin23/LeetCode/tree/master/3447-clear-digits) |
+| [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sosuke23/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/Sosuke23/LeetCode/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3706-maximum-distance-between-unequal-words-in-array-ii](https://github.com/Sosuke23/LeetCode/tree/master/3706-maximum-distance-between-unequal-words-in-array-ii) |
+| [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3758-convert-number-words-to-digits](https://github.com/Sosuke23/LeetCode/tree/master/3758-convert-number-words-to-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-minimum-sensors-to-cover-grid](https://github.com/Sosuke23/LeetCode/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3667-sort-array-by-absolute-value](https://github.com/Sosuke23/LeetCode/tree/master/3667-sort-array-by-absolute-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/freakin23/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/Sosuke23/LeetCode/tree/master/3792-sum-of-increasing-product-blocks) |
 | [3817-good-indices-in-a-digit-string](https://github.com/Sosuke23/LeetCode/tree/master/3817-good-indices-in-a-digit-string) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3662-filter-characters-by-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3662-filter-characters-by-frequency) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/Sosuke23/LeetCode/tree/master/3682-minimum-index-sum-of-common-elements) |
+| [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/Sosuke23/LeetCode/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Sosuke23/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
@@ -917,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/freakin23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/freakin23/LeetCode/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/freakin23/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 ## Matrix
 |  |
 | ------- |
