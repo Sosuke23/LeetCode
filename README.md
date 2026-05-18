@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/freakin23/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/freakin23/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0247-strobogrammatic-number-ii](https://github.com/Sosuke23/LeetCode/tree/master/0247-strobogrammatic-number-ii) |
 | [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
 | [0259-3sum-smaller](https://github.com/Sosuke23/LeetCode/tree/master/0259-3sum-smaller) |
 | [0260-single-number-iii](https://github.com/freakin23/LeetCode/tree/master/0260-single-number-iii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/freakin23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/Sosuke23/LeetCode/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0242-valid-anagram](https://github.com/Sosuke23/LeetCode/tree/master/0242-valid-anagram) |
+| [0247-strobogrammatic-number-ii](https://github.com/Sosuke23/LeetCode/tree/master/0247-strobogrammatic-number-ii) |
 | [0257-binary-tree-paths](https://github.com/Sosuke23/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0267-palindrome-permutation-ii](https://github.com/Sosuke23/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Sosuke23/LeetCode/tree/master/0271-encode-and-decode-strings) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sosuke23/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Sosuke23/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Sosuke23/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0247-strobogrammatic-number-ii](https://github.com/Sosuke23/LeetCode/tree/master/0247-strobogrammatic-number-ii) |
 | [0776-split-bst](https://github.com/Sosuke23/LeetCode/tree/master/0776-split-bst) |
 | [1197-parsing-a-boolean-expression](https://github.com/freakin23/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/freakin23/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
