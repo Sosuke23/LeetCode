@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/freakin23/LeetCode/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/freakin23/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/freakin23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/Sosuke23/LeetCode/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3468-find-the-encrypted-string](https://github.com/freakin23/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/freakin23/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/freakin23/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/Sosuke23/LeetCode/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
+| [3460-longest-common-prefix-after-at-most-one-removal](https://github.com/Sosuke23/LeetCode/tree/master/3460-longest-common-prefix-after-at-most-one-removal) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sosuke23/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3667-sort-array-by-absolute-value](https://github.com/Sosuke23/LeetCode/tree/master/3667-sort-array-by-absolute-value) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sosuke23/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
