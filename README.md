@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/freakin23/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sosuke23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2737-find-the-closest-marked-node](https://github.com/Sosuke23/LeetCode/tree/master/2737-find-the-closest-marked-node) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/freakin23/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sosuke23/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/freakin23/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/freakin23/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2737-find-the-closest-marked-node](https://github.com/Sosuke23/LeetCode/tree/master/2737-find-the-closest-marked-node) |
 | [2868-continuous-subarrays](https://github.com/freakin23/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/freakin23/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sosuke23/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1344,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/freakin23/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2737-find-the-closest-marked-node](https://github.com/Sosuke23/LeetCode/tree/master/2737-find-the-closest-marked-node) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sosuke23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sosuke23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Trie
@@ -1517,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/Sosuke23/LeetCode/tree/master/0277-find-the-celebrity) |
+| [2737-find-the-closest-marked-node](https://github.com/Sosuke23/LeetCode/tree/master/2737-find-the-closest-marked-node) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
