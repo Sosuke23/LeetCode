@@ -31,11 +31,7 @@ public:
                 }
             }
         }
-
-        for (int i = 0; i < n; i++) {
-            cout << dis[i] << " \n"[i == n - 1];
-        }
-
+        
         for (int node : marked) {
             if (dis[node] <= INT_MAX) {
                 res = std::min(res, (int)dis[node]);
