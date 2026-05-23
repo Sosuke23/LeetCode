@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Sosuke23/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sosuke23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Sosuke23/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0364-nested-list-weight-sum-ii](https://github.com/Sosuke23/LeetCode/tree/master/0364-nested-list-weight-sum-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Sosuke23/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0780-max-chunks-to-make-sorted](https://github.com/freakin23/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Sosuke23/LeetCode/tree/master/0853-car-fleet) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sosuke23/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sosuke23/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Sosuke23/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
+| [0364-nested-list-weight-sum-ii](https://github.com/Sosuke23/LeetCode/tree/master/0364-nested-list-weight-sum-ii) |
 | [0386-lexicographical-numbers](https://github.com/Sosuke23/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sosuke23/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sosuke23/LeetCode/tree/master/0200-number-of-islands) |
+| [0364-nested-list-weight-sum-ii](https://github.com/Sosuke23/LeetCode/tree/master/0364-nested-list-weight-sum-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/freakin23/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sosuke23/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0428-serialize-and-deserialize-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/0428-serialize-and-deserialize-n-ary-tree) |
