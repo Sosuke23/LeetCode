@@ -1025,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sosuke23/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/freakin23/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
+| [3528-unit-conversion-i](https://github.com/Sosuke23/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3535-unit-conversion-ii](https://github.com/Sosuke23/LeetCode/tree/master/3535-unit-conversion-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/freakin23/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/freakin23/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/freakin23/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3528-unit-conversion-i](https://github.com/Sosuke23/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3535-unit-conversion-ii](https://github.com/Sosuke23/LeetCode/tree/master/3535-unit-conversion-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/freakin23/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/freakin23/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1538,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-minimum-cost-to-buy-apples](https://github.com/Sosuke23/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2737-find-the-closest-marked-node](https://github.com/Sosuke23/LeetCode/tree/master/2737-find-the-closest-marked-node) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
+| [3528-unit-conversion-i](https://github.com/Sosuke23/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3535-unit-conversion-ii](https://github.com/Sosuke23/LeetCode/tree/master/3535-unit-conversion-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
