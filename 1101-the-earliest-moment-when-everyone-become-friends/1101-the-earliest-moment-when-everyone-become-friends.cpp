@@ -1,0 +1,65 @@
+struct DSU {
+    int n;
+    vector<int> p, sz;
+
+    DSU(int _n) : n(_n) {
+        p = vector<int> (n);
+        iota(begin(p), end(p), 0);
+        sz = vector<int> (n, 1);
+    }
+
+    inline int get(int x) {
+        if (x == p[x]) {
+            return x;
+        }
+        return p[x] = get(p[x]);
+    }
+
+    inline bool unite(int x, int y) {
+        x = get(x);
+        y = get(y);
+
+        if (x == y) {
+            return false;
+        }
+        sz[y] += sz[x];
+        p[x] = y;
+        return true;
+    }
+
+    inline bool same(int x, int y) {
+        return (get(x) == get(y));
+    }
+
+    inline int size(int x) {
+        return sz[get(x)];
+    }
+
+    inline bool root(int x) {
+        return (x == get(x));
+    }
+
+};
+
+class Solution {
+public:
+
+    int earliestAcq(vector<vector<int>>& logs, int n) {
+        DSU dsu(n);
+        std::sort(begin(logs), end(logs));
+        for (std::vector<int> log : logs) {
+            dsu.unite(log[1], log[2]);
+            bool ok = true;
+            for (int i = 1; i < n; i++) {
+                if (!dsu.same(0, i)) {
+                    ok = false;
+                    break;
+                }
+            }
+            if (ok) {
+                return log[0];
+            }
+        }
+        return -1;
+    }
+};
