@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sosuke23/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/freakin23/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1064-fixed-point](https://github.com/Sosuke23/LeetCode/tree/master/1064-fixed-point) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Sosuke23/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/freakin23/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sosuke23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/freakin23/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-car-fleet](https://github.com/Sosuke23/LeetCode/tree/master/0853-car-fleet) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Sosuke23/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1340-jump-game-v](https://github.com/Sosuke23/LeetCode/tree/master/1340-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/freakin23/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Sosuke23/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
