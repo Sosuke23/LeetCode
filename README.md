@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0259-3sum-smaller](https://github.com/Sosuke23/LeetCode/tree/master/0259-3sum-smaller) |
 | [0260-single-number-iii](https://github.com/freakin23/LeetCode/tree/master/0260-single-number-iii) |
 | [0271-encode-and-decode-strings](https://github.com/Sosuke23/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/Sosuke23/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0407-trapping-rain-water-ii](https://github.com/freakin23/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sosuke23/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/freakin23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -1152,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sosuke23/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Sosuke23/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0281-zigzag-iterator](https://github.com/Sosuke23/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/freakin23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sosuke23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/freakin23/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -1415,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Sosuke23/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
 | [0271-encode-and-decode-strings](https://github.com/Sosuke23/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/Sosuke23/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0731-my-calendar-ii](https://github.com/freakin23/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
@@ -1594,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0251-flatten-2d-vector](https://github.com/Sosuke23/LeetCode/tree/master/0251-flatten-2d-vector) |
+| [0281-zigzag-iterator](https://github.com/Sosuke23/LeetCode/tree/master/0281-zigzag-iterator) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 ## Interactive
 |  |
