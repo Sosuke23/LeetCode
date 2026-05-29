@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/freakin23/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/Sosuke23/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2505-bitwise-or-of-all-subsequence-sums](https://github.com/Sosuke23/LeetCode/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/freakin23/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2540-minimum-common-value](https://github.com/Sosuke23/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-remove-all-ones-with-row-and-column-flips](https://github.com/Sosuke23/LeetCode/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sosuke23/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/Sosuke23/LeetCode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
+| [2505-bitwise-or-of-all-subsequence-sums](https://github.com/Sosuke23/LeetCode/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [2610-closest-prime-numbers-in-range](https://github.com/freakin23/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2621-find-xor-beauty-of-array](https://github.com/freakin23/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sosuke23/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/freakin23/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/freakin23/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/freakin23/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2505-bitwise-or-of-all-subsequence-sums](https://github.com/Sosuke23/LeetCode/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/freakin23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sosuke23/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/freakin23/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-remove-all-ones-with-row-and-column-flips-ii](https://github.com/Sosuke23/LeetCode/tree/master/2174-remove-all-ones-with-row-and-column-flips-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/freakin23/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2505-bitwise-or-of-all-subsequence-sums](https://github.com/Sosuke23/LeetCode/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [2509-minimize-xor](https://github.com/freakin23/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/freakin23/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/freakin23/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
@@ -1539,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2505-bitwise-or-of-all-subsequence-sums](https://github.com/Sosuke23/LeetCode/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/freakin23/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3596-minimum-cost-path-with-alternating-directions-i](https://github.com/Sosuke23/LeetCode/tree/master/3596-minimum-cost-path-with-alternating-directions-i) |
 ## Topological Sort
