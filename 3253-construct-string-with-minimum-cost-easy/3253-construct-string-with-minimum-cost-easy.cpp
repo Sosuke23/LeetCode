@@ -8,12 +8,9 @@ public:
         dp[0] = 0;
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < words.size(); j++) {
-                std::string word = words[j];
-                int cost = costs[j];
-
-                if (i + (int)word.size() <= n and target.substr(i, (int)word.size()) == word) {
-                    dp[i + (int)word.size()] = min(dp[i + (int)word.size()], dp[i] + cost);
+            for (int j = 0; j < (int)words.size(); j++) {
+                if (i + (int)words[j].size() <= n and target.substr(i, (int)words[j].size()) == words[j]) {
+                    dp[i + (int)words[j].size()] = min(dp[i + (int)words[j].size()], dp[i] + costs[j]);
                 }
             }
         }
