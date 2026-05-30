@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Sosuke23/LeetCode/tree/master/0867-new-21-game) |
 | [1056-confusing-number](https://github.com/Sosuke23/LeetCode/tree/master/1056-confusing-number) |
 | [1118-number-of-days-in-a-month](https://github.com/Sosuke23/LeetCode/tree/master/1118-number-of-days-in-a-month) |
+| [1215-stepping-numbers](https://github.com/Sosuke23/LeetCode/tree/master/1215-stepping-numbers) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/freakin23/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sosuke23/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Sosuke23/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0993-cousins-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1215-stepping-numbers](https://github.com/Sosuke23/LeetCode/tree/master/1215-stepping-numbers) |
 | [1306-jump-game-iii](https://github.com/Sosuke23/LeetCode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/freakin23/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1262,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0267-palindrome-permutation-ii](https://github.com/Sosuke23/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0306-additive-number](https://github.com/Sosuke23/LeetCode/tree/master/0306-additive-number) |
 | [1160-letter-tile-possibilities](https://github.com/freakin23/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1215-stepping-numbers](https://github.com/Sosuke23/LeetCode/tree/master/1215-stepping-numbers) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/freakin23/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sosuke23/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/freakin23/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
