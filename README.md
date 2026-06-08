@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sosuke23/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sosuke23/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/freakin23/LeetCode/tree/master/2145-grid-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sosuke23/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/freakin23/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/freakin23/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-remove-all-ones-with-row-and-column-flips-ii](https://github.com/Sosuke23/LeetCode/tree/master/2174-remove-all-ones-with-row-and-column-flips-ii) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/freakin23/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/freakin23/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2061-number-of-spaces-cleaning-robot-cleaned](https://github.com/Sosuke23/LeetCode/tree/master/2061-number-of-spaces-cleaning-robot-cleaned) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sosuke23/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/freakin23/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/freakin23/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/freakin23/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/freakin23/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1861-rotating-the-box](https://github.com/Sosuke23/LeetCode/tree/master/1861-rotating-the-box) |
 | [1972-rotating-the-box](https://github.com/freakin23/LeetCode/tree/master/1972-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sosuke23/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sosuke23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2232-adding-spaces-to-a-string](https://github.com/freakin23/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/freakin23/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
