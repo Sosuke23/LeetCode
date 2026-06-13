@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3837-delayed-count-of-equal-elements](https://github.com/Sosuke23/LeetCode/tree/master/3837-delayed-count-of-equal-elements) |
+| [3838-weighted-word-mapping](https://github.com/Sosuke23/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Sosuke23/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Sosuke23/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/Sosuke23/LeetCode/tree/master/3773-maximum-number-of-equal-length-runs) |
 | [3817-good-indices-in-a-digit-string](https://github.com/Sosuke23/LeetCode/tree/master/3817-good-indices-in-a-digit-string) |
+| [3838-weighted-word-mapping](https://github.com/Sosuke23/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Sosuke23/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/Sosuke23/LeetCode/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Sosuke23/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/Sosuke23/LeetCode/tree/master/3792-sum-of-increasing-product-blocks) |
 | [3819-rotate-non-negative-elements](https://github.com/Sosuke23/LeetCode/tree/master/3819-rotate-non-negative-elements) |
+| [3838-weighted-word-mapping](https://github.com/Sosuke23/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Sosuke23/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
