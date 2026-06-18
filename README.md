@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 | [3905-multi-source-flood-fill](https://github.com/Sosuke23/LeetCode/tree/master/3905-multi-source-flood-fill) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Stack
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Sosuke23/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/Sosuke23/LeetCode/tree/master/3851-maximum-requests-without-violating-the-limit) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Sorting
 |  |
 | ------- |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-minimum-time-to-visit-all-houses](https://github.com/Sosuke23/LeetCode/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3639-zero-array-transformation-i](https://github.com/Sosuke23/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Recursion
 |  |
 | ------- |
