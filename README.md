@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-confusing-number](https://github.com/Sosuke23/LeetCode/tree/master/1056-confusing-number) |
 | [1118-number-of-days-in-a-month](https://github.com/Sosuke23/LeetCode/tree/master/1118-number-of-days-in-a-month) |
 | [1215-stepping-numbers](https://github.com/Sosuke23/LeetCode/tree/master/1215-stepping-numbers) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Sosuke23/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/freakin23/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sosuke23/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
