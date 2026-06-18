@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 | [3905-multi-source-flood-fill](https://github.com/Sosuke23/LeetCode/tree/master/3905-multi-source-flood-fill) |
+| [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Stack
 |  |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Sosuke23/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3860-unique-email-groups](https://github.com/Sosuke23/LeetCode/tree/master/3860-unique-email-groups) |
 | [3889-mirror-frequency-distance](https://github.com/Sosuke23/LeetCode/tree/master/3889-mirror-frequency-distance) |
+| [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/Sosuke23/LeetCode/tree/master/3941-password-strength) |
 ## Linked List
 |  |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 | [3889-mirror-frequency-distance](https://github.com/Sosuke23/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/Sosuke23/LeetCode/tree/master/3941-password-strength) |
 ## Heap (Priority Queue)
 |  |
@@ -1345,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3889-mirror-frequency-distance](https://github.com/Sosuke23/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 ## Enumeration
 |  |
 | ------- |
