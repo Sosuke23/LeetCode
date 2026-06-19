@@ -2,7 +2,6 @@ class Solution {
 public:
     long long maxRatings(vector<vector<int>>& units) {
         long long res = 0;
-        int row = (int)units.size();
         int col = (int)units[0].size();
 
         if (col == 1) {
