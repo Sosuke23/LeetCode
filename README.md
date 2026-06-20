@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/Sosuke23/LeetCode/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sosuke23/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Sosuke23/LeetCode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3788-maximum-score-of-a-split](https://github.com/Sosuke23/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3809-best-reachable-tower](https://github.com/Sosuke23/LeetCode/tree/master/3809-best-reachable-tower) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Sosuke23/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-minimum-time-to-visit-all-houses](https://github.com/Sosuke23/LeetCode/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3639-zero-array-transformation-i](https://github.com/Sosuke23/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-score-of-a-split](https://github.com/Sosuke23/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Recursion
 |  |
