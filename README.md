@@ -525,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sosuke23/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-smallest-all-ones-multiple](https://github.com/Sosuke23/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/Sosuke23/LeetCode/tree/master/3792-sum-of-increasing-product-blocks) |
 | [3817-good-indices-in-a-digit-string](https://github.com/Sosuke23/LeetCode/tree/master/3817-good-indices-in-a-digit-string) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sosuke23/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/Sosuke23/LeetCode/tree/master/3773-maximum-number-of-equal-length-runs) |
+| [3790-smallest-all-ones-multiple](https://github.com/Sosuke23/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Sosuke23/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3822-design-order-management-system](https://github.com/Sosuke23/LeetCode/tree/master/3822-design-order-management-system) |
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
