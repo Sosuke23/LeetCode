@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/Sosuke23/LeetCode/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sosuke23/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Sosuke23/LeetCode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Sosuke23/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3788-maximum-score-of-a-split](https://github.com/Sosuke23/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3809-best-reachable-tower](https://github.com/Sosuke23/LeetCode/tree/master/3809-best-reachable-tower) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Sosuke23/LeetCode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Sosuke23/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
 ## Two Pointers
 |  |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/Sosuke23/LeetCode/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Sosuke23/LeetCode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Sosuke23/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/Sosuke23/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Sosuke23/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -899,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3667-sort-array-by-absolute-value](https://github.com/Sosuke23/LeetCode/tree/master/3667-sort-array-by-absolute-value) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/Sosuke23/LeetCode/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Sosuke23/LeetCode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Sosuke23/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sosuke23/LeetCode/tree/master/3814-maximum-capacity-within-budget) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/Sosuke23/LeetCode/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
