@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/Sosuke23/LeetCode/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sosuke23/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Sosuke23/LeetCode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Sosuke23/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Sosuke23/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3788-maximum-score-of-a-split](https://github.com/Sosuke23/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3667-sort-array-by-absolute-value](https://github.com/Sosuke23/LeetCode/tree/master/3667-sort-array-by-absolute-value) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sosuke23/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/Sosuke23/LeetCode/tree/master/3730-maximum-calories-burnt-from-jumps) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Sosuke23/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sosuke23/LeetCode/tree/master/3814-maximum-capacity-within-budget) |
 | [3865-reverse-k-subarrays](https://github.com/Sosuke23/LeetCode/tree/master/3865-reverse-k-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sosuke23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sosuke23/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Sosuke23/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sosuke23/LeetCode/tree/master/3814-maximum-capacity-within-budget) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Sosuke23/LeetCode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
@@ -1226,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/freakin23/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3595-once-twice](https://github.com/Sosuke23/LeetCode/tree/master/3595-once-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/freakin23/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Sosuke23/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/Sosuke23/LeetCode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Sosuke23/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Sosuke23/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
