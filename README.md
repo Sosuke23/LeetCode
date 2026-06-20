@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/Sosuke23/LeetCode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/Sosuke23/LeetCode/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Sosuke23/LeetCode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3853-merge-close-characters](https://github.com/Sosuke23/LeetCode/tree/master/3853-merge-close-characters) |
 | [3860-unique-email-groups](https://github.com/Sosuke23/LeetCode/tree/master/3860-unique-email-groups) |
 | [3889-mirror-frequency-distance](https://github.com/Sosuke23/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3843-first-element-with-unique-frequency) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/Sosuke23/LeetCode/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/Sosuke23/LeetCode/tree/master/3851-maximum-requests-without-violating-the-limit) |
+| [3853-merge-close-characters](https://github.com/Sosuke23/LeetCode/tree/master/3853-merge-close-characters) |
 | [3860-unique-email-groups](https://github.com/Sosuke23/LeetCode/tree/master/3860-unique-email-groups) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sosuke23/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
