@@ -1,21 +1,29 @@
 class Solution {
 public:
     string mergeCharacters(string s, int k) {
-        std::string res = "";
+        bool found = true;
+        while (found) {
+            found = false;
+            for (int i = 0; i < (int)s.size(); i++) {
+                for (int j = i + 1; j < (int)s.size(); j++) {
+                    
+                    if (s[i] == s[j] && j - i <= k) {
+                        s.erase(j, 1);
+                        found = true;
+                        break;
+                    }
 
-        std::array<int, 26> cnt {0};
+                    if (j - i > k) {
+                        break;
+                    }
+                }
 
-        for (char x : s) {
-            if (cnt[x - 'a']) {
-                continue;
-            }
-            res += x;
-            cnt[x - 'a']++;
-
-            if ((int)res.size() > k) {
-                cnt[res[(int)res.size() - k - 1] - 'a']--;
+                if (found) {
+                    break;
+                }
             }
         }
-        return res;
+
+        return s;
     }
 };
