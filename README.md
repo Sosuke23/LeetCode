@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/freakin23/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3535-unit-conversion-ii](https://github.com/Sosuke23/LeetCode/tree/master/3535-unit-conversion-ii) |
 | [3540-minimum-time-to-visit-all-houses](https://github.com/Sosuke23/LeetCode/tree/master/3540-minimum-time-to-visit-all-houses) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sosuke23/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/freakin23/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sosuke23/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/freakin23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/freakin23/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sosuke23/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/freakin23/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sosuke23/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Sosuke23/LeetCode/tree/master/3321-type-of-triangle) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/Sosuke23/LeetCode/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sosuke23/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/Sosuke23/LeetCode/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sosuke23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sosuke23/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
