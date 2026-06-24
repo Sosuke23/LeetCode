@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-minimum-sensors-to-cover-grid](https://github.com/Sosuke23/LeetCode/tree/master/3648-minimum-sensors-to-cover-grid) |
 | [3667-sort-array-by-absolute-value](https://github.com/Sosuke23/LeetCode/tree/master/3667-sort-array-by-absolute-value) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/freakin23/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sosuke23/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sosuke23/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sosuke23/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1305,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sosuke23/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sosuke23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Sosuke23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sosuke23/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/freakin23/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sosuke23/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sosuke23/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
