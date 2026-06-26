@@ -1,37 +1,36 @@
 class Solution {
 public:
-    long long finishTime(int n, vector<vector<int>>& edges, vector<int>& baseTime) {
+    long long finishTime(int n, vector<vector<int>>& edges, vector<int>& base_time) {
         std::vector<int> adj[n];
+        std::vector<int> order;
         for (std::vector<int> edge : edges) {
             adj[edge[0]].push_back(edge[1]);
         }
 
-        std::vector<long long> vis(n, LLONG_MAX);
+        std::vector<long long> res(n);
+        std::stack<int> st;
+        st.push(0);
 
-        std::function<long long(int)> Dfs = [&] (int node) {
-            
-            if (adj[node].size() == 0) {
-                return (long long)baseTime[node];
+        while (!st.empty()) {
+            int a = st.top();
+            st.pop();
+            order.push_back(a);
+
+            for (int nxt_node : adj[a]) {
+                st.push(nxt_node);
+            }
+        }
+
+        for (int i = (int)order.size() - 1; i >= 0; i--) {
+            long long earliest = LLONG_MAX, latest = LLONG_MIN;
+            for (int nxt_node : adj[order[i]]) {
+                earliest = std::min(earliest, res[nxt_node]);
+                latest = std::max(latest, res[nxt_node]);
             }
 
-            if (vis[node] != LLONG_MAX) {
-                return vis[node];
-            }
+            res[order[i]] = latest == LLONG_MIN ? (long long)base_time[order[i]] : 2 * latest - earliest + base_time[order[i]];
+        }
 
-            long long earliest = LLONG_MAX, latest = 0;
-            for (auto neighbour : adj[node]) {
-                long long time = Dfs(neighbour);
-                earliest = std::min(earliest, time);
-                latest = std::max(latest, time);
-            }
-
-            long long own_duration = baseTime[node] + (latest - earliest);
-            long long finish_time = latest + own_duration;
-            vis[node] = finish_time;
-            return finish_time;
-        };
-
-        long long res = Dfs(0);
-        return res;
+        return res[0];
     }
 };
