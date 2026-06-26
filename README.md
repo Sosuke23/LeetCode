@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3716-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/freakin23/LeetCode/tree/master/3716-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3730-maximum-calories-burnt-from-jumps](https://github.com/Sosuke23/LeetCode/tree/master/3730-maximum-calories-burnt-from-jumps) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sosuke23/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sosuke23/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Sosuke23/LeetCode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Sosuke23/LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3662-filter-characters-by-frequency](https://github.com/Sosuke23/LeetCode/tree/master/3662-filter-characters-by-frequency) |
 | [3678-design-task-manager](https://github.com/freakin23/LeetCode/tree/master/3678-design-task-manager) |
 | [3682-minimum-index-sum-of-common-elements](https://github.com/Sosuke23/LeetCode/tree/master/3682-minimum-index-sum-of-common-elements) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sosuke23/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-maximum-number-of-equal-length-runs](https://github.com/Sosuke23/LeetCode/tree/master/3773-maximum-number-of-equal-length-runs) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-minimum-time-to-visit-all-houses](https://github.com/Sosuke23/LeetCode/tree/master/3540-minimum-time-to-visit-all-houses) |
 | [3639-zero-array-transformation-i](https://github.com/Sosuke23/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3788-maximum-score-of-a-split](https://github.com/Sosuke23/LeetCode/tree/master/3788-maximum-score-of-a-split) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Recursion
@@ -1055,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/freakin23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/freakin23/LeetCode/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/freakin23/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 ## Matrix
 |  |
@@ -1326,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Sosuke23/LeetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/freakin23/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/freakin23/LeetCode/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Backtracking
 |  |
@@ -1718,4 +1723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/Sosuke23/LeetCode/tree/master/0277-find-the-celebrity) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
