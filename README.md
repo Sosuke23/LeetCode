@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Sosuke23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/freakin23/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sosuke23/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Sosuke23/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/freakin23/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/freakin23/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/freakin23/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/Sosuke23/LeetCode/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2128-remove-all-ones-with-row-and-column-flips](https://github.com/Sosuke23/LeetCode/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sosuke23/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Sosuke23/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/Sosuke23/LeetCode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2505-bitwise-or-of-all-subsequence-sums](https://github.com/Sosuke23/LeetCode/tree/master/2505-bitwise-or-of-all-subsequence-sums) |
 | [2610-closest-prime-numbers-in-range](https://github.com/freakin23/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sosuke23/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sosuke23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sosuke23/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Sosuke23/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2300-construct-string-with-repeat-limit](https://github.com/freakin23/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/freakin23/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2408-design-sql](https://github.com/Sosuke23/LeetCode/tree/master/2408-design-sql) |
@@ -1400,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/freakin23/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sosuke23/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sosuke23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Sosuke23/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sosuke23/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/freakin23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sosuke23/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1528,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/freakin23/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/Sosuke23/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1733-maximum-number-of-visible-points](https://github.com/freakin23/LeetCode/tree/master/1733-maximum-number-of-visible-points) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Sosuke23/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sosuke23/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Design
 |  |
