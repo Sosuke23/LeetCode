@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sosuke23/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sosuke23/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sosuke23/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/Sosuke23/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 | [3792-sum-of-increasing-product-blocks](https://github.com/Sosuke23/LeetCode/tree/master/3792-sum-of-increasing-product-blocks) |
