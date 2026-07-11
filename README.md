@@ -1153,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/freakin23/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/freakin23/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/Sosuke23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2773-height-of-special-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/2773-height-of-special-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sosuke23/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1200,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/freakin23/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/freakin23/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/freakin23/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/Sosuke23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2773-height-of-special-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/2773-height-of-special-binary-tree) |
@@ -1698,12 +1700,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Sosuke23/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
+| [2685-count-the-number-of-complete-components](https://github.com/Sosuke23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/Sosuke23/LeetCode/tree/master/0277-find-the-celebrity) |
 | [2473-minimum-cost-to-buy-apples](https://github.com/Sosuke23/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
+| [2685-count-the-number-of-complete-components](https://github.com/Sosuke23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2737-find-the-closest-marked-node](https://github.com/Sosuke23/LeetCode/tree/master/2737-find-the-closest-marked-node) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3528-unit-conversion-i](https://github.com/Sosuke23/LeetCode/tree/master/3528-unit-conversion-i) |
