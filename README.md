@@ -1409,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Sosuke23/LeetCode/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Sosuke23/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/freakin23/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sosuke23/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
