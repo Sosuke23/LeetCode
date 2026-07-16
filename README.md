@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Sosuke23/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sosuke23/LeetCode/tree/master/3814-maximum-capacity-within-budget) |
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/Sosuke23/LeetCode/tree/master/3851-maximum-requests-without-violating-the-limit) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Prefix Sum
