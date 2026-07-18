@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/freakin23/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sosuke23/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1972-rotating-the-box](https://github.com/freakin23/LeetCode/tree/master/1972-rotating-the-box) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sosuke23/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/freakin23/LeetCode/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/freakin23/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2035-count-sub-islands](https://github.com/freakin23/LeetCode/tree/master/2035-count-sub-islands) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/freakin23/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/freakin23/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Sosuke23/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sosuke23/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2005-subtree-removal-game-with-fibonacci-tree](https://github.com/Sosuke23/LeetCode/tree/master/2005-subtree-removal-game-with-fibonacci-tree) |
 | [2128-remove-all-ones-with-row-and-column-flips](https://github.com/Sosuke23/LeetCode/tree/master/2128-remove-all-ones-with-row-and-column-flips) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sosuke23/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Sosuke23/LeetCode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/freakin23/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sosuke23/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/Sosuke23/LeetCode/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2610-closest-prime-numbers-in-range](https://github.com/freakin23/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/freakin23/LeetCode/tree/master/2716-prime-subtraction-operation) |
