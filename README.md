@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3468-find-the-encrypted-string](https://github.com/freakin23/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sosuke23/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/freakin23/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-count-odd-letters-from-number](https://github.com/Sosuke23/LeetCode/tree/master/3581-count-odd-letters-from-number) |
@@ -1423,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Sosuke23/LeetCode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sosuke23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sosuke23/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sosuke23/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/freakin23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sosuke23/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sosuke23/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
