@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sosuke23/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sosuke23/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/freakin23/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/freakin23/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-count-odd-letters-from-number](https://github.com/Sosuke23/LeetCode/tree/master/3581-count-odd-letters-from-number) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Sosuke23/LeetCode/tree/master/3321-type-of-triangle) |
 | [3476-maximize-profit-from-task-assignment](https://github.com/Sosuke23/LeetCode/tree/master/3476-maximize-profit-from-task-assignment) |
 | [3491-phone-number-prefix](https://github.com/Sosuke23/LeetCode/tree/master/3491-phone-number-prefix) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sosuke23/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sosuke23/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3631-sort-threats-by-severity-and-exploitability](https://github.com/Sosuke23/LeetCode/tree/master/3631-sort-threats-by-severity-and-exploitability) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sosuke23/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1757,4 +1759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sosuke23/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
