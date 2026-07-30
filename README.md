@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/freakin23/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/freakin23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sosuke23/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sosuke23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/freakin23/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Sosuke23/LeetCode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3093-longest-common-suffix-queries](https://github.com/Sosuke23/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/freakin23/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/freakin23/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/freakin23/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sosuke23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sosuke23/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sosuke23/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/freakin23/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sosuke23/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/freakin23/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sosuke23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sosuke23/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/Sosuke23/LeetCode/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sosuke23/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3151-minimum-processing-time](https://github.com/freakin23/LeetCode/tree/master/3151-minimum-processing-time) |
