@@ -1175,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2773-height-of-special-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/2773-height-of-special-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Sosuke23/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3310-remove-methods-from-project](https://github.com/Sosuke23/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/freakin23/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3528-unit-conversion-i](https://github.com/Sosuke23/LeetCode/tree/master/3528-unit-conversion-i) |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2773-height-of-special-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/2773-height-of-special-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Sosuke23/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/freakin23/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/freakin23/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1731,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-minimum-cost-to-buy-apples](https://github.com/Sosuke23/LeetCode/tree/master/2473-minimum-cost-to-buy-apples) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sosuke23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2737-find-the-closest-marked-node](https://github.com/Sosuke23/LeetCode/tree/master/2737-find-the-closest-marked-node) |
+| [3310-remove-methods-from-project](https://github.com/Sosuke23/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3481-apply-substitutions](https://github.com/Sosuke23/LeetCode/tree/master/3481-apply-substitutions) |
 | [3528-unit-conversion-i](https://github.com/Sosuke23/LeetCode/tree/master/3528-unit-conversion-i) |
 | [3535-unit-conversion-ii](https://github.com/Sosuke23/LeetCode/tree/master/3535-unit-conversion-ii) |
