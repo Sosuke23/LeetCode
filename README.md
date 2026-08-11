@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/freakin23/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/freakin23/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sosuke23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sosuke23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Sosuke23/LeetCode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/freakin23/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/freakin23/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/freakin23/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sosuke23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sosuke23/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sosuke23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/freakin23/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sosuke23/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/freakin23/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sosuke23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sosuke23/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/Sosuke23/LeetCode/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3151-minimum-processing-time](https://github.com/freakin23/LeetCode/tree/master/3151-minimum-processing-time) |
