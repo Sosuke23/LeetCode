@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sosuke23/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/freakin23/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Sosuke23/LeetCode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/Sosuke23/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/Sosuke23/LeetCode/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sosuke23/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sosuke23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Sosuke23/LeetCode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3167-better-compression-of-string](https://github.com/Sosuke23/LeetCode/tree/master/3167-better-compression-of-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/freakin23/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/freakin23/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/freakin23/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/freakin23/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/freakin23/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/freakin23/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-count-substrings-with-k-frequency-characters-ii](https://github.com/Sosuke23/LeetCode/tree/master/3329-count-substrings-with-k-frequency-characters-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/freakin23/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
