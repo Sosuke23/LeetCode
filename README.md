@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sosuke23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sosuke23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sosuke23/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/Sosuke23/LeetCode/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3093-longest-common-suffix-queries](https://github.com/Sosuke23/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sosuke23/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Sosuke23/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/freakin23/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/freakin23/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sosuke23/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3400-maximum-number-of-matching-indices-after-right-shifts](https://github.com/Sosuke23/LeetCode/tree/master/3400-maximum-number-of-matching-indices-after-right-shifts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/freakin23/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/freakin23/LeetCode/tree/master/3447-clear-digits) |
