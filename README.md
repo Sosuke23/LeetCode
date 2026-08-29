@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/freakin23/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/freakin23/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sosuke23/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sosuke23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sosuke23/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3034-points-that-intersect-with-cars](https://github.com/freakin23/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/freakin23/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sosuke23/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/freakin23/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sosuke23/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sosuke23/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sosuke23/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3125-maximum-number-that-makes-result-of-bitwise-and-zero](https://github.com/Sosuke23/LeetCode/tree/master/3125-maximum-number-that-makes-result-of-bitwise-and-zero) |
@@ -1748,6 +1750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Sosuke23/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sosuke23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sosuke23/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
