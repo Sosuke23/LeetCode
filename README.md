@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Sosuke23/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
+| [3904-smallest-stable-index-ii](https://github.com/Sosuke23/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/Sosuke23/LeetCode/tree/master/3905-multi-source-flood-fill) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Sosuke23/LeetCode/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Sosuke23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3788-maximum-score-of-a-split](https://github.com/Sosuke23/LeetCode/tree/master/3788-maximum-score-of-a-split) |
+| [3904-smallest-stable-index-ii](https://github.com/Sosuke23/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 ## Recursion
 |  |
