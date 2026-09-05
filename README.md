@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Sosuke23/LeetCode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Stack
 |  |
 | ------- |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3814-maximum-capacity-within-budget](https://github.com/Sosuke23/LeetCode/tree/master/3814-maximum-capacity-within-budget) |
 | [3865-reverse-k-subarrays](https://github.com/Sosuke23/LeetCode/tree/master/3865-reverse-k-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Greedy
 |  |
 | ------- |
@@ -904,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/Sosuke23/LeetCode/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sosuke23/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
 | ------- |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Prefix Sum
 |  |
 | ------- |
