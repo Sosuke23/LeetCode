@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Sosuke23/LeetCode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sosuke23/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Stack
 |  |
 | ------- |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/Sosuke23/LeetCode/tree/master/3941-password-strength) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sosuke23/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
