@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/freakin23/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Sosuke23/LeetCode/tree/master/0853-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/freakin23/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1096-brace-expansion-ii](https://github.com/Sosuke23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/freakin23/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/freakin23/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/freakin23/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/freakin23/LeetCode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sosuke23/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/freakin23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Sosuke23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sosuke23/LeetCode/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1122-longest-duplicate-substring](https://github.com/freakin23/LeetCode/tree/master/1122-longest-duplicate-substring) |
 | [1160-letter-tile-possibilities](https://github.com/freakin23/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/freakin23/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/freakin23/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/freakin23/LeetCode/tree/master/0952-word-subsets) |
+| [1096-brace-expansion-ii](https://github.com/Sosuke23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Sosuke23/LeetCode/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/freakin23/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/freakin23/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/freakin23/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/freakin23/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-car-fleet](https://github.com/Sosuke23/LeetCode/tree/master/0853-car-fleet) |
+| [1096-brace-expansion-ii](https://github.com/Sosuke23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Sosuke23/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1184-car-pooling](https://github.com/freakin23/LeetCode/tree/master/1184-car-pooling) |
 | [1340-jump-game-v](https://github.com/Sosuke23/LeetCode/tree/master/1340-jump-game-v) |
@@ -1233,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Sosuke23/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0993-cousins-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Sosuke23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1215-stepping-numbers](https://github.com/Sosuke23/LeetCode/tree/master/1215-stepping-numbers) |
 | [1306-jump-game-iii](https://github.com/Sosuke23/LeetCode/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1413,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sosuke23/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0267-palindrome-permutation-ii](https://github.com/Sosuke23/LeetCode/tree/master/0267-palindrome-permutation-ii) |
 | [0306-additive-number](https://github.com/Sosuke23/LeetCode/tree/master/0306-additive-number) |
+| [1096-brace-expansion-ii](https://github.com/Sosuke23/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/freakin23/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1215-stepping-numbers](https://github.com/Sosuke23/LeetCode/tree/master/1215-stepping-numbers) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/freakin23/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
