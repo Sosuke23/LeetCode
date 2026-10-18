@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/freakin23/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/freakin23/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/freakin23/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sosuke23/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sosuke23/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-circular-permutation-in-binary-representation](https://github.com/freakin23/LeetCode/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1370-count-number-of-nice-subarrays](https://github.com/freakin23/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sosuke23/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1585-the-kth-factor-of-n](https://github.com/freakin23/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/freakin23/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sosuke23/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/freakin23/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/freakin23/LeetCode/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/freakin23/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sosuke23/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 ## Matrix
@@ -1371,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/freakin23/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/freakin23/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/freakin23/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sosuke23/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/freakin23/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/freakin23/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -1542,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
 | [1506-find-root-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1506-find-root-of-n-ary-tree) |
 | [1522-diameter-of-n-ary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1522-diameter-of-n-ary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Sosuke23/LeetCode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
@@ -1580,6 +1585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/freakin23/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1430-check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree) |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/Sosuke23/LeetCode/tree/master/1485-clone-binary-tree-with-random-pointer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 | [1602-find-nearest-right-node-in-binary-tree](https://github.com/Sosuke23/LeetCode/tree/master/1602-find-nearest-right-node-in-binary-tree) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Sosuke23/LeetCode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
@@ -1756,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sosuke23/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Sosuke23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sosuke23/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1766,11 +1773,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sosuke23/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/Sosuke23/LeetCode/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0776-split-bst](https://github.com/Sosuke23/LeetCode/tree/master/0776-split-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-binary-search-tree-iterator-ii](https://github.com/Sosuke23/LeetCode/tree/master/1586-binary-search-tree-iterator-ii) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/Sosuke23/LeetCode/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Memoization
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sosuke23/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Probability and Statistics
 |  |
@@ -1780,6 +1789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Sosuke23/LeetCode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sosuke23/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sosuke23/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sosuke23/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1852,4 +1862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sosuke23/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sosuke23/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
