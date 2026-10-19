@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sosuke23/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Sosuke23/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
 | ------- |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Sosuke23/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Sosuke23/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sosuke23/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Sosuke23/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/Sosuke23/LeetCode/tree/master/3941-password-strength) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sosuke23/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Sosuke23/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3763-maximum-total-sum-with-threshold-constraints](https://github.com/Sosuke23/LeetCode/tree/master/3763-maximum-total-sum-with-threshold-constraints) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Sosuke23/LeetCode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Sosuke23/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -997,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Sosuke23/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1487,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/Sosuke23/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Sosuke23/LeetCode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Sosuke23/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -1659,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Sosuke23/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Sosuke23/LeetCode/tree/master/3827-implement-router) |
 | [3885-design-event-manager](https://github.com/Sosuke23/LeetCode/tree/master/3885-design-event-manager) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Sosuke23/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String Matching
 |  |
 | ------- |
