@@ -9,7 +9,7 @@ public:
                 if (nums[i] + nums[j] == target and nums[i] != nums[j]) {
                     if (nums[i] * nums[j] > prod) {
                         prod = nums[i] * nums[j];
-                        if (nums[i] >= nums[j]) {
+                        if (nums[i] > nums[j]) {
                             res = {i, j};
                         } else {
                             res = {j, i};
