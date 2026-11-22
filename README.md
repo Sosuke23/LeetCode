@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sosuke23/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/freakin23/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/freakin23/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sosuke23/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/Sosuke23/LeetCode/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/freakin23/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/freakin23/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
