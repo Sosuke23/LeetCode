@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sosuke23/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Sosuke23/LeetCode/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Sosuke23/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4103-remove-elements-by-type-and-color](https://github.com/Sosuke23/LeetCode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Stack
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/freakin23/LeetCode/tree/master/3447-clear-digits) |
 | [3749-evaluate-valid-expressions](https://github.com/Sosuke23/LeetCode/tree/master/3749-evaluate-valid-expressions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sosuke23/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4103-remove-elements-by-type-and-color](https://github.com/Sosuke23/LeetCode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Monotonic Stack
 |  |
 | ------- |
