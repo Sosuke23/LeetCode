@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/Sosuke23/LeetCode/tree/master/3889-mirror-frequency-distance) |
 | [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3941-password-strength](https://github.com/Sosuke23/LeetCode/tree/master/3941-password-strength) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/Sosuke23/LeetCode/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Linked List
 |  |
 | ------- |
