@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
 | [3926-count-valid-word-occurrences](https://github.com/Sosuke23/LeetCode/tree/master/3926-count-valid-word-occurrences) |
 | [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/Sosuke23/LeetCode/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sosuke23/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Sosuke23/LeetCode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Sosuke23/LeetCode/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-maximum-requests-without-violating-the-limit](https://github.com/Sosuke23/LeetCode/tree/master/3851-maximum-requests-without-violating-the-limit) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sosuke23/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/Sosuke23/LeetCode/tree/master/3919-minimum-cost-to-move-between-indices) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sosuke23/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Sosuke23/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
@@ -1436,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Sosuke23/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Sosuke23/LeetCode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sosuke23/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sosuke23/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
